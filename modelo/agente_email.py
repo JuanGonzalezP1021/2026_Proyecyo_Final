@@ -12,6 +12,7 @@ class AgenteEmail:
         self._acw = acw
 
     # GETTERS
+    # Metodos para calcular indicadores del agente
     def get_agent_id(self):
         return self._agent_id
 
