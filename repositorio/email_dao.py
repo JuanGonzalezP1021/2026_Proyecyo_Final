@@ -24,6 +24,7 @@ class EmailDAO:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
     # CREATE
+    # Inserta agentes en persistencia JSON
     def crear(self, agente):
 
         data = self._cargar()
