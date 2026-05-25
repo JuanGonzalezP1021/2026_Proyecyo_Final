@@ -13,6 +13,24 @@ chat_dao  = ChatDAO()
 email_dao = EmailDAO()
 
 # ──────────────────────────────────────────────
+# FUNCIONES AUXILIARES DE VALIDACIÓN 
+# ──────────────────────────────────────────────
+
+def leer_float(mensaje):
+    while True:
+        try:
+            return float(input(mensaje))
+        except ValueError:
+            print("❌ Error: Ingrese un número decimal válido.")
+
+def leer_int(mensaje):
+    while True:
+        try:
+            return int(input(mensaje))
+        except ValueError:
+            print("❌ Error: Ingrese un número entero válido.")
+
+# ──────────────────────────────────────────────
 # MENÚS POR CANAL
 # ──────────────────────────────────────────────
 
@@ -31,8 +49,8 @@ def menu_phone():
         if op == "1":
             aid = input("ID: ")
             tm  = input("Team Manager: ")
-            ht  = float(input("Handle Time (seg): "))
-            tx  = int(input("Inbound Transactions: "))
+            ht  = leer_float("Handle Time (seg): ")
+            tx  = leer_int("Inbound Transactions: ")
             a   = AgentePhone(aid, tm, ht, tx)
             print("Creado ✓" if phone_dao.crear(a) else "Ya existe ese ID.")
 
@@ -44,7 +62,7 @@ def menu_phone():
             aid = input("ID: ")
             a   = phone_dao.obtener(aid)
             if a:
-                a.set_handle_time(float(input("Nuevo handle_time: ")))
+                a.set_handle_time(leer_float("Nuevo handle_time: "))
                 print("Actualizado ✓" if phone_dao.actualizar(a) else "Error.")
             else:
                 print("No encontrado.")
@@ -80,8 +98,8 @@ def menu_chat():
         if op == "1":
             aid = input("ID: ")
             tm  = input("Team Manager: ")
-            ca  = float(input("Chat AHT: "))
-            cc  = int(input("Concurrent Chats: "))
+            ca  = leer_float("Chat AHT: ")
+            cc  = leer_int("Concurrent Chats: ")
             a   = AgenteChat(aid, tm, ca, cc)
             print("Creado ✓" if chat_dao.crear(a) else "Ya existe ese ID.")
 
@@ -93,7 +111,7 @@ def menu_chat():
             aid = input("ID: ")
             a   = chat_dao.obtener(aid)
             if a:
-                a.set_chat_aht(float(input("Nuevo chat_aht: ")))
+                a.set_chat_aht(leer_float("Nuevo chat_aht: "))
                 print("Actualizado ✓" if chat_dao.actualizar(a) else "Error.")
             else:
                 print("No encontrado.")
@@ -129,9 +147,9 @@ def menu_email():
         if op == "1":
             aid = input("ID: ")
             tm  = input("Team Manager: ")
-            ht  = float(input("Handle Time (seg): "))
-            tx  = int(input("Inbound Transactions: "))
-            acw = float(input("ACW (seg): "))
+            ht  = leer_float("Handle Time (seg): ")
+            tx  = leer_int("Inbound Transactions: ")
+            acw = leer_float("ACW (seg): ")
             a   = AgenteEmail(aid, tm, ht, tx, acw)
             print("Creado ✓" if email_dao.crear(a) else "Ya existe ese ID.")
 
@@ -143,7 +161,7 @@ def menu_email():
             aid = input("ID: ")
             a   = email_dao.obtener(aid)
             if a:
-                a.set_handle_time(float(input("Nuevo handle_time: ")))
+                a.set_handle_time(leer_float("Nuevo handle_time: "))
                 print("Actualizado ✓" if email_dao.actualizar(a) else "Error.")
             else:
                 print("No encontrado.")
@@ -180,8 +198,8 @@ def correr_pruebas():
     for modulo in ["tests.test_phone_crud", "tests.test_chat_crud", "tests.test_email_crud"]:
         try:
             suite.addTests(loader.loadTestsFromName(modulo))
-        except ModuleNotFoundError:
-            print(f"  ⚠ No se encontró {modulo} — verifica que el archivo existe y no está vacío.")
+        except Exception as e:
+            print(f"  ⚠ No se pudo cargar {modulo}. Detalle: {e}")
 
     runner = unittest.TextTestRunner(verbosity=2)
     runner.run(suite)
