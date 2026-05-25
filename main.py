@@ -226,10 +226,13 @@ def main():
         elif op == "3": menu_email()
         elif op == "4": correr_pruebas()
         elif op == "5":
-            print("Programa finalizado.")
-            break
-        else:
-            print("Opción no válida.")
+            agentes = phone_dao.obtener_todos()
+            print(f"\n{len(agentes)} agente(s):")
+            for i, a in enumerate(agentes):
+                print(" ", a.to_dict())
+                if (i + 1) % 20 == 0 and i + 1 < len(agentes):
+                    if input("  Enter=más / q=salir: ").strip() == "q":
+                        break
 
 if __name__ == "__main__":
     main()

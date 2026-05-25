@@ -11783,5 +11783,26 @@
     "handle_time": 585.43,
     "inbound_tx": 56,
     "canal": "Phone"
+  },
+  {
+    "agent_id": "Agente9811",
+    "team_manager": "TL4",
+    "handle_time": 500.0,
+    "inbound_tx": 0,
+    "canal": "Phone"
+  },
+  {
+    "agent_id": "AgenteTest1",
+    "team_manager": "TL1",
+    "handle_time": 856.0,
+    "inbound_tx": 15,
+    "canal": "Phone"
+  },
+  {
+    "agent_id": "AgenteTest0",
+    "team_manager": "TL5",
+    "handle_time": 909.0,
+    "inbound_tx": 0,
+    "canal": "Phone"
   }
 ]
