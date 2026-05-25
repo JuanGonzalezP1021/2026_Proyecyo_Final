@@ -8,9 +8,9 @@
 
 | Integrante | Rama Git | Entidad | Archivo DAO |
 |---|---|---|---|
-| Juan David González | `dev_jugonzalez47` | `AgentePhone` | `phone_dao.py` |
-| L. Guerrero | `dev_lguerrero07` | `AgenteChat` | `chat_dao.py` |
-| L. Saavedra | `dev_lsaavedra18` | `AgenteEmail` | `email_dao.py` |
+| Juan David González Puentes | `dev_jugonzalez47` | `AgentePhone` | `phone_dao.py` |
+| Luna Sahay Guerrero Tarrazona | `dev_lguerrero07` | `AgenteChat` | `chat_dao.py` |
+| Lorena Sofia Saavedra Orjueja | `dev_lsaavedra18` | `AgenteEmail` | `email_dao.py` |
 
 ---
 
@@ -19,6 +19,11 @@
 Sistema CRUD para gestionar agentes de un call center multicanal con tres tipos de canal: **Phone**, **Chat** y **Email**. Cada agente pertenece a un canal específico y tiene métricas propias calculadas según la definición del negocio (KPIs).
 
 Los datos se persisten en archivos **JSON** independientes por canal, siguiendo el patrón **DAO** (Data Access Object) para desacoplar la lógica de negocio del acceso a datos.
+
+### Características adicionales
+- **Paginación en listados:** la opción "Listar agentes" muestra de a 20 registros con navegación interactiva (Enter = siguiente página, q = salir), evitando desbordamiento en terminal.
+- **Carga robusta de JSON:** el método `_cargar()` de los DAOs maneja archivos vacíos o corruptos sin caídas (`JSONDecodeError`), devolviendo una lista vacía y permitiendo operar normalmente.
+- **Validación de entrada:** funciones `leer_float()` y `leer_int()` previenen caídas por input inválido del usuario.
 
 ---
 
@@ -39,6 +44,8 @@ Los datos se persisten en archivos **JSON** independientes por canal, siguiendo 
 │   ├── test_chat_crud.py
 │   └── test_email_crud.py
 ├── data/                    ← PERSISTENCIA JSON
+├── docs/                    ← DOCUMENTACIÓN
+│   └── taller_VII.md
 └── main.py                  ← CONTROLADOR (C en MVC)
 ```
 
@@ -101,6 +108,8 @@ classDiagram
         +obtener_todos() list
         +actualizar(agente) bool
         +eliminar(agent_id) bool
+        -_cargar() list
+        -_guardar(registros)
     }
 
     class ChatDAO {
@@ -110,6 +119,8 @@ classDiagram
         +obtener_todos() list
         +actualizar(agente) bool
         +eliminar(agent_id) bool
+        -_cargar() list
+        -_guardar(registros)
     }
 
     class EmailDAO {
@@ -119,6 +130,8 @@ classDiagram
         +obtener_todos() list
         +actualizar(agente) bool
         +eliminar(agent_id) bool
+        -_cargar() list
+        -_guardar(registros)
     }
 
     PhoneDAO --> AgentePhone : gestiona
@@ -151,7 +164,7 @@ Edge case: si `inbound_tx == 0` retorna `0.0` en ambas métricas.
 |---|---|---|
 | **Create** | `crear(agente)` | Guarda nuevo. `False` si ya existe. |
 | **Read** | `obtener(agent_id)` | Busca por ID. `None` si no existe. |
-| **Read All** | `obtener_todos()` | Lista todos los agentes del canal. |
+| **Read All** | `obtener_todos()` | Lista todos los agentes del canal (paginado de a 20). |
 | **Update** | `actualizar(agente)` | Actualiza datos. `False` si no existe. |
 | **Delete** | `eliminar(agent_id)` | Elimina por ID. `False` si no existe. |
 
@@ -184,13 +197,25 @@ Edge case: si `inbound_tx == 0` retorna `0.0` en ambas métricas.
 | 9 | Listar todos con múltiples agentes | Normal |
 | 10 | AHT con `inbound_tx = 0` → `0.0` | **Edge** |
 
-### Resultado de pruebas
+### Resultado de pruebas — Dev 1: Phone (J.Gonzalez)
 
-> _(Insertar captura Dev 1 — Phone)_
+![Pruebas Phone 1](Pictures/Photos/Phone/Pruebas_1.png)
 
-> _(Insertar captura Dev 2 — Chat)_
+![Pruebas Phone 2](Pictures/Photos/Phone/Pruebas_2.png)
 
-> _(Insertar captura Dev 3 — Email)_
+![Pruebas Phone 3](Pictures/Photos/Phone/Pruebas_3.png)
+
+![Pruebas Phone 4](Pictures/Photos/Phone/Pruebas_4.png)
+
+![Pruebas Phone 5](Pictures/Photos/Phone/Pruebas_5.png)
+
+### Resultado de pruebas — Dev 2: Chat (L. Guerrero)
+
+> _(Pendiente: insertar capturas de pruebas Chat)_
+
+### Resultado de pruebas — Dev 3: Email (L. Saavedra)
+
+> _(Pendiente: insertar capturas de pruebas Email)_
 
 ---
 
