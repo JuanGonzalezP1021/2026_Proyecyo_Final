@@ -13,7 +13,7 @@ chat_dao  = ChatDAO()
 email_dao = EmailDAO()
 
 # ──────────────────────────────────────────────
-# FUNCIONES AUXILIARES DE VALIDACIÓN (Evitan caídas)
+# FUNCIONES AUXILIARES DE VALIDACIÓN 
 # ──────────────────────────────────────────────
 
 def leer_float(mensaje):
