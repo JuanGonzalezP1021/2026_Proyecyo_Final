@@ -30,13 +30,26 @@ def leer_int(mensaje):
         except ValueError:
             print("❌ Error: Ingrese un número entero válido.")
 
+def listar_paginado(agentes, pagina=20):
+    """Muestra agentes de a N con pausa entre páginas."""
+    total = len(agentes)
+    print(f"\n📋 {total} agente(s) en total:\n")
+    for i, a in enumerate(agentes):
+        print(" ", a.to_dict())
+        if (i + 1) % pagina == 0 and (i + 1) < total:
+            op = input(f"\n  --- Página {(i+1)//pagina} | {i+1}/{total} --- [Enter]=siguiente / [q]=salir: ").strip().lower()
+            if op == "q":
+                print(f"  (Se mostraron {i+1} de {total})")
+                break
+            print()
+
 # ──────────────────────────────────────────────
 # MENÚS POR CANAL
 # ──────────────────────────────────────────────
 
 def menu_phone():
     while True:
-        print("\n CALL CENTER — PHONE")
+        print("\n📞 CALL CENTER — PHONE")
         print("1. Crear agente")
         print("2. Buscar agente")
         print("3. Actualizar handle_time")
@@ -71,9 +84,7 @@ def menu_phone():
             print("Eliminado ✓" if phone_dao.eliminar(input("ID: ")) else "No encontrado.")
 
         elif op == "5":
-            agentes = phone_dao.obtener_todos()
-            print(f"\n{len(agentes)} agente(s):")
-            for a in agentes: print(" ", a.to_dict())
+            listar_paginado(phone_dao.obtener_todos())
 
         elif op == "6":
             a = phone_dao.obtener(input("ID: "))
@@ -85,7 +96,7 @@ def menu_phone():
 
 def menu_chat():
     while True:
-        print("\n CALL CENTER — CHAT")
+        print("\n💬 CALL CENTER — CHAT")
         print("1. Crear agente")
         print("2. Buscar agente")
         print("3. Actualizar chat_aht")
@@ -120,9 +131,7 @@ def menu_chat():
             print("Eliminado ✓" if chat_dao.eliminar(input("ID: ")) else "No encontrado.")
 
         elif op == "5":
-            agentes = chat_dao.obtener_todos()
-            print(f"\n{len(agentes)} agente(s):")
-            for a in agentes: print(" ", a.to_dict())
+            listar_paginado(chat_dao.obtener_todos())
 
         elif op == "6":
             a = chat_dao.obtener(input("ID: "))
@@ -134,7 +143,7 @@ def menu_chat():
 
 def menu_email():
     while True:
-        print("\n CALL CENTER — EMAIL")
+        print("\n📧 CALL CENTER — EMAIL")
         print("1. Crear agente")
         print("2. Buscar agente")
         print("3. Actualizar handle_time")
@@ -170,9 +179,7 @@ def menu_email():
             print("Eliminado ✓" if email_dao.eliminar(input("ID: ")) else "No encontrado.")
 
         elif op == "5":
-            agentes = email_dao.obtener_todos()
-            print(f"\n{len(agentes)} agente(s):")
-            for a in agentes: print(" ", a.to_dict())
+            listar_paginado(email_dao.obtener_todos())
 
         elif op == "6":
             a = email_dao.obtener(input("ID: "))
@@ -191,7 +198,7 @@ def menu_email():
 # ──────────────────────────────────────────────
 
 def correr_pruebas():
-    print("\n Ejecutando pruebas unitarias...\n")
+    print("\n🧪 Ejecutando pruebas unitarias...\n")
     loader = unittest.TestLoader()
     suite  = unittest.TestSuite()
 
@@ -226,13 +233,10 @@ def main():
         elif op == "3": menu_email()
         elif op == "4": correr_pruebas()
         elif op == "5":
-            agentes = phone_dao.obtener_todos()
-            print(f"\n{len(agentes)} agente(s):")
-            for i, a in enumerate(agentes):
-                print(" ", a.to_dict())
-                if (i + 1) % 20 == 0 and i + 1 < len(agentes):
-                    if input("  Enter=más / q=salir: ").strip() == "q":
-                        break
+            print("Programa finalizado.")
+            break
+        else:
+            print("Opción no válida.")
 
 if __name__ == "__main__":
     main()
