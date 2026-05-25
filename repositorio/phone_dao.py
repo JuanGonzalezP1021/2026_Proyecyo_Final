@@ -1,53 +1,69 @@
-import json, os
+import json
+import os
+
+from modelo.agente_phone import AgentePhone
+
+_BASE = os.path.dirname(os.path.abspath(__file__))
+
 
 class PhoneDAO:
-    """
-    PATRÓN DAO: encapsula toda operación de persistencia para AgentePhone.
-    SOLID - S: solo gestiona phone_data.json.
-    SOLID - O: abierto para extender a BD sin cambiar la interfaz.
-    """
-    FILE = "data/phone_data.json"
+    """DAO canal Phone. CRUD sobre phone_data.json."""
 
-    def _cargar(self) -> dict:
-        if not os.path.exists(self.FILE):
-            return {}
-        with open(self.FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+    FILE = os.path.join(_BASE, "..", "data", "phone_data.json")
 
-    def _guardar(self, data: dict):
-        os.makedirs("data", exist_ok=True)
-        with open(self.FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+    def __init__(self, archivo=None):
+        self.archivo = archivo if archivo else self.FILE
 
-    def crear(self, agente) -> bool:
-        data = self._cargar()
-        if agente.get_agent_id() in data:
+    # --- Acceso a datos (lo unico que cambiaria al migrar a SQLite) ---
+    def _cargar(self):
+        # Archivo inexistente o vacio -> lista vacia (evita JSONDecodeError)
+        if not os.path.exists(self.archivo) or os.path.getsize(self.archivo) == 0:
+            return []
+        with open(self.archivo, encoding="utf-8") as f:
+            try:
+                return json.load(f)
+            except json.JSONDecodeError:
+                # JSON corrupto: no tumbamos el programa, arrancamos vacio
+                return []
+
+    def _guardar(self, registros):
+        carpeta = os.path.dirname(self.archivo)
+        if carpeta:
+            os.makedirs(carpeta, exist_ok=True)
+        with open(self.archivo, "w", encoding="utf-8") as f:
+            json.dump(registros, f, ensure_ascii=False, indent=2)
+
+    # --- CRUD ---
+    def crear(self, agente):
+        registros = self._cargar()
+        if any(r["agent_id"] == agente.get_agent_id() for r in registros):
             return False
-        data[agente.get_agent_id()] = agente.to_dict()
-        self._guardar(data)
+        registros.append(agente.to_dict())
+        self._guardar(registros)
         return True
 
-    def obtener(self, agent_id: str):
-        from modelo.agente_phone import AgentePhone
-        data = self._cargar()
-        return AgentePhone.from_dict(data[agent_id]) if agent_id in data else None
+    def obtener(self, agent_id):
+        for r in self._cargar():
+            if r["agent_id"] == agent_id:
+                return AgentePhone.from_dict(r)
+        return None
 
-    def obtener_todos(self) -> list:
-        from modelo.agente_phone import AgentePhone
-        return [AgentePhone.from_dict(v) for v in self._cargar().values()]
+    def obtener_todos(self):
+        return [AgentePhone.from_dict(r) for r in self._cargar()]
 
-    def actualizar(self, agente) -> bool:
-        data = self._cargar()
-        if agente.get_agent_id() not in data:
+    def actualizar(self, agente):
+        registros = self._cargar()
+        for i, r in enumerate(registros):
+            if r["agent_id"] == agente.get_agent_id():
+                registros[i] = agente.to_dict()
+                self._guardar(registros)
+                return True
+        return False
+
+    def eliminar(self, agent_id):
+        registros = self._cargar()
+        nuevos = [r for r in registros if r["agent_id"] != agent_id]
+        if len(nuevos) == len(registros):
             return False
-        data[agente.get_agent_id()] = agente.to_dict()
-        self._guardar(data)
-        return True
-
-    def eliminar(self, agent_id: str) -> bool:
-        data = self._cargar()
-        if agent_id not in data:
-            return False
-        del data[agent_id]
-        self._guardar(data)
+        self._guardar(nuevos)
         return True

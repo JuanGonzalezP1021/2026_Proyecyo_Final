@@ -1,1 +1,6728 @@
-{}
+[
+  {
+    "agent_id": "Agent0001",
+    "team_manager": "TL1",
+    "chat_aht": 1447.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0002",
+    "team_manager": "TL1",
+    "chat_aht": 16137.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0003",
+    "team_manager": "TL1",
+    "chat_aht": 1929.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0004",
+    "team_manager": "TL1",
+    "chat_aht": 2066.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0005",
+    "team_manager": "TL1",
+    "chat_aht": 15533.45,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0006",
+    "team_manager": "TL1",
+    "chat_aht": 1781.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0007",
+    "team_manager": "TL1",
+    "chat_aht": 16913.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0008",
+    "team_manager": "TL1",
+    "chat_aht": 13099.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0009",
+    "team_manager": "TL1",
+    "chat_aht": 480.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0010",
+    "team_manager": "TL1",
+    "chat_aht": 2325.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0011",
+    "team_manager": "TL1",
+    "chat_aht": 1341.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0013",
+    "team_manager": "TL1",
+    "chat_aht": 123.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0014",
+    "team_manager": "TL1",
+    "chat_aht": 494.67,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0018",
+    "team_manager": "TL1",
+    "chat_aht": 10462.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0021",
+    "team_manager": "TL1",
+    "chat_aht": 20628.74,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0027",
+    "team_manager": "TL1",
+    "chat_aht": 446.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0028",
+    "team_manager": "TL1",
+    "chat_aht": 3832.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0029",
+    "team_manager": "TL1",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0035",
+    "team_manager": "TL1",
+    "chat_aht": 16645.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0040",
+    "team_manager": "TL1",
+    "chat_aht": 6145.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0047",
+    "team_manager": "TL1",
+    "chat_aht": 21292.22,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0051",
+    "team_manager": "TL2",
+    "chat_aht": 19130.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0052",
+    "team_manager": "TL2",
+    "chat_aht": 18574.24,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0053",
+    "team_manager": "TL2",
+    "chat_aht": 21721.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0054",
+    "team_manager": "TL2",
+    "chat_aht": 22202.83,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0055",
+    "team_manager": "TL2",
+    "chat_aht": 19554.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0056",
+    "team_manager": "TL2",
+    "chat_aht": 21396.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0057",
+    "team_manager": "TL2",
+    "chat_aht": 22027.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0058",
+    "team_manager": "TL2",
+    "chat_aht": 22732.94,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0059",
+    "team_manager": "TL2",
+    "chat_aht": 19084.93,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0060",
+    "team_manager": "TL2",
+    "chat_aht": 21439.06,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0064",
+    "team_manager": "TL2",
+    "chat_aht": 5756.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0067",
+    "team_manager": "TL2",
+    "chat_aht": 21799.67,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0068",
+    "team_manager": "TL2",
+    "chat_aht": 1677.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0069",
+    "team_manager": "TL2",
+    "chat_aht": 2308.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0070",
+    "team_manager": "TL2",
+    "chat_aht": 16974.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0071",
+    "team_manager": "TL2",
+    "chat_aht": 239.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0072",
+    "team_manager": "TL2",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0074",
+    "team_manager": "TL2",
+    "chat_aht": 16045.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0075",
+    "team_manager": "TL2",
+    "chat_aht": 18692.42,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0076",
+    "team_manager": "TL2",
+    "chat_aht": 1721.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0081",
+    "team_manager": "TL2",
+    "chat_aht": 5075.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0082",
+    "team_manager": "TL2",
+    "chat_aht": 17793.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0083",
+    "team_manager": "TL2",
+    "chat_aht": 15065.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0085",
+    "team_manager": "TL2",
+    "chat_aht": 20211.51,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0086",
+    "team_manager": "TL2",
+    "chat_aht": 22616.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0087",
+    "team_manager": "TL2",
+    "chat_aht": 6298.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0088",
+    "team_manager": "TL2",
+    "chat_aht": 24517.46,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0089",
+    "team_manager": "TL2",
+    "chat_aht": 742.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0090",
+    "team_manager": "TL2",
+    "chat_aht": 539.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0095",
+    "team_manager": "TL2",
+    "chat_aht": 708.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0096",
+    "team_manager": "TL2",
+    "chat_aht": 7410.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0097",
+    "team_manager": "TL2",
+    "chat_aht": 5767.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0104",
+    "team_manager": "TL3",
+    "chat_aht": 910.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0106",
+    "team_manager": "TL3",
+    "chat_aht": 5602.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0112",
+    "team_manager": "TL3",
+    "chat_aht": 22381.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0113",
+    "team_manager": "TL3",
+    "chat_aht": 26168.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0115",
+    "team_manager": "TL3",
+    "chat_aht": 23556.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0121",
+    "team_manager": "TL3",
+    "chat_aht": 16254.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0123",
+    "team_manager": "TL3",
+    "chat_aht": 19983.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0126",
+    "team_manager": "TL3",
+    "chat_aht": 18883.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0127",
+    "team_manager": "TL3",
+    "chat_aht": 22764.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0129",
+    "team_manager": "TL3",
+    "chat_aht": 20613.46,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0133",
+    "team_manager": "TL3",
+    "chat_aht": 21385.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0134",
+    "team_manager": "TL3",
+    "chat_aht": 23123.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0136",
+    "team_manager": "TL3",
+    "chat_aht": 22994.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0137",
+    "team_manager": "TL3",
+    "chat_aht": 21446.76,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0138",
+    "team_manager": "TL3",
+    "chat_aht": 4958.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0141",
+    "team_manager": "TL3",
+    "chat_aht": 19114.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0144",
+    "team_manager": "TL3",
+    "chat_aht": 24856.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0146",
+    "team_manager": "TL3",
+    "chat_aht": 21991.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0148",
+    "team_manager": "TL3",
+    "chat_aht": 18098.42,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0151",
+    "team_manager": "TL4",
+    "chat_aht": 22047.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0153",
+    "team_manager": "TL4",
+    "chat_aht": 8232.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0154",
+    "team_manager": "TL4",
+    "chat_aht": 12036.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0155",
+    "team_manager": "TL4",
+    "chat_aht": 6863.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0158",
+    "team_manager": "TL4",
+    "chat_aht": 22713.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0159",
+    "team_manager": "TL4",
+    "chat_aht": 20961.46,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0160",
+    "team_manager": "TL4",
+    "chat_aht": 2685.77,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0161",
+    "team_manager": "TL4",
+    "chat_aht": 15372.01,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0167",
+    "team_manager": "TL4",
+    "chat_aht": 19632.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0168",
+    "team_manager": "TL4",
+    "chat_aht": 21784.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0171",
+    "team_manager": "TL4",
+    "chat_aht": 8290.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0173",
+    "team_manager": "TL4",
+    "chat_aht": 20004.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0174",
+    "team_manager": "TL4",
+    "chat_aht": 5312.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0175",
+    "team_manager": "TL4",
+    "chat_aht": 19890.24,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0176",
+    "team_manager": "TL4",
+    "chat_aht": 15713.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0177",
+    "team_manager": "TL4",
+    "chat_aht": 10414.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0180",
+    "team_manager": "TL4",
+    "chat_aht": 2676.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0181",
+    "team_manager": "TL4",
+    "chat_aht": 22943.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0182",
+    "team_manager": "TL4",
+    "chat_aht": 8081.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0183",
+    "team_manager": "TL4",
+    "chat_aht": 16604.24,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0184",
+    "team_manager": "TL4",
+    "chat_aht": 2970.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0185",
+    "team_manager": "TL4",
+    "chat_aht": 19321.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0188",
+    "team_manager": "TL4",
+    "chat_aht": 18455.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0191",
+    "team_manager": "TL4",
+    "chat_aht": 6733.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0193",
+    "team_manager": "TL4",
+    "chat_aht": 1882.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0194",
+    "team_manager": "TL4",
+    "chat_aht": 5011.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0195",
+    "team_manager": "TL4",
+    "chat_aht": 25266.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0196",
+    "team_manager": "TL4",
+    "chat_aht": 23742.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0197",
+    "team_manager": "TL4",
+    "chat_aht": 21682.75,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0199",
+    "team_manager": "TL4",
+    "chat_aht": 1648.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0200",
+    "team_manager": "TL4",
+    "chat_aht": 19459.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0201",
+    "team_manager": "TL5",
+    "chat_aht": 16074.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0202",
+    "team_manager": "TL5",
+    "chat_aht": 3448.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0203",
+    "team_manager": "TL5",
+    "chat_aht": 19019.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0205",
+    "team_manager": "TL5",
+    "chat_aht": 2665.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0206",
+    "team_manager": "TL5",
+    "chat_aht": 4480.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0207",
+    "team_manager": "TL5",
+    "chat_aht": 22272.55,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0209",
+    "team_manager": "TL5",
+    "chat_aht": 14264.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0211",
+    "team_manager": "TL5",
+    "chat_aht": 21670.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0213",
+    "team_manager": "TL5",
+    "chat_aht": 7189.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0214",
+    "team_manager": "TL5",
+    "chat_aht": 6567.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0215",
+    "team_manager": "TL5",
+    "chat_aht": 13411.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0216",
+    "team_manager": "TL5",
+    "chat_aht": 2158.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0221",
+    "team_manager": "TL5",
+    "chat_aht": 6806.57,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0222",
+    "team_manager": "TL5",
+    "chat_aht": 21916.81,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0226",
+    "team_manager": "TL5",
+    "chat_aht": 23559.26,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0227",
+    "team_manager": "TL5",
+    "chat_aht": 27.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0228",
+    "team_manager": "TL5",
+    "chat_aht": 6218.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0229",
+    "team_manager": "TL5",
+    "chat_aht": 6291.76,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0230",
+    "team_manager": "TL5",
+    "chat_aht": 10654.73,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0231",
+    "team_manager": "TL5",
+    "chat_aht": 2254.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0234",
+    "team_manager": "TL5",
+    "chat_aht": 22180.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0237",
+    "team_manager": "TL5",
+    "chat_aht": 19203.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0241",
+    "team_manager": "TL5",
+    "chat_aht": 19786.37,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0242",
+    "team_manager": "TL5",
+    "chat_aht": 17883.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0243",
+    "team_manager": "TL5",
+    "chat_aht": 22297.51,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0245",
+    "team_manager": "TL5",
+    "chat_aht": 4116.75,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0246",
+    "team_manager": "TL5",
+    "chat_aht": 22726.85,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0247",
+    "team_manager": "TL5",
+    "chat_aht": 12286.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0249",
+    "team_manager": "TL5",
+    "chat_aht": 5196.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0250",
+    "team_manager": "TL5",
+    "chat_aht": 3359.32,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0254",
+    "team_manager": "TL6",
+    "chat_aht": 22533.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0258",
+    "team_manager": "TL6",
+    "chat_aht": 2196.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0259",
+    "team_manager": "TL6",
+    "chat_aht": 6363.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0260",
+    "team_manager": "TL6",
+    "chat_aht": 21988.84,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0262",
+    "team_manager": "TL6",
+    "chat_aht": 20480.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0263",
+    "team_manager": "TL6",
+    "chat_aht": 21201.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0266",
+    "team_manager": "TL6",
+    "chat_aht": 20071.73,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0267",
+    "team_manager": "TL6",
+    "chat_aht": 2106.4,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0269",
+    "team_manager": "TL6",
+    "chat_aht": 14469.83,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0271",
+    "team_manager": "TL6",
+    "chat_aht": 24733.85,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0274",
+    "team_manager": "TL6",
+    "chat_aht": 9025.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0275",
+    "team_manager": "TL6",
+    "chat_aht": 22145.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0277",
+    "team_manager": "TL6",
+    "chat_aht": 19100.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0278",
+    "team_manager": "TL6",
+    "chat_aht": 17138.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0279",
+    "team_manager": "TL6",
+    "chat_aht": 11959.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0280",
+    "team_manager": "TL6",
+    "chat_aht": 25009.47,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0281",
+    "team_manager": "TL6",
+    "chat_aht": 23298.74,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0282",
+    "team_manager": "TL6",
+    "chat_aht": 4526.37,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0283",
+    "team_manager": "TL6",
+    "chat_aht": 17300.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0284",
+    "team_manager": "TL6",
+    "chat_aht": 15953.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0285",
+    "team_manager": "TL6",
+    "chat_aht": 3093.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0287",
+    "team_manager": "TL6",
+    "chat_aht": 526.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0288",
+    "team_manager": "TL6",
+    "chat_aht": 807.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0290",
+    "team_manager": "TL6",
+    "chat_aht": 18252.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0292",
+    "team_manager": "TL6",
+    "chat_aht": 14295.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0293",
+    "team_manager": "TL6",
+    "chat_aht": 2809.4,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0294",
+    "team_manager": "TL6",
+    "chat_aht": 19245.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0295",
+    "team_manager": "TL6",
+    "chat_aht": 16859.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0301",
+    "team_manager": "TL7",
+    "chat_aht": 24812.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0302",
+    "team_manager": "TL7",
+    "chat_aht": 13902.26,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0303",
+    "team_manager": "TL7",
+    "chat_aht": 4400.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0304",
+    "team_manager": "TL7",
+    "chat_aht": 9983.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0305",
+    "team_manager": "TL7",
+    "chat_aht": 2705.76,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0306",
+    "team_manager": "TL7",
+    "chat_aht": 611.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0307",
+    "team_manager": "TL7",
+    "chat_aht": 2276.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0308",
+    "team_manager": "TL7",
+    "chat_aht": 19924.03,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0312",
+    "team_manager": "TL7",
+    "chat_aht": 19558.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0313",
+    "team_manager": "TL7",
+    "chat_aht": 20621.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0314",
+    "team_manager": "TL7",
+    "chat_aht": 8336.26,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0317",
+    "team_manager": "TL7",
+    "chat_aht": 6967.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0320",
+    "team_manager": "TL7",
+    "chat_aht": 19820.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0323",
+    "team_manager": "TL7",
+    "chat_aht": 2836.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0324",
+    "team_manager": "TL7",
+    "chat_aht": 23941.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0325",
+    "team_manager": "TL7",
+    "chat_aht": 18927.77,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0326",
+    "team_manager": "TL7",
+    "chat_aht": 24919.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0330",
+    "team_manager": "TL7",
+    "chat_aht": 1830.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0332",
+    "team_manager": "TL7",
+    "chat_aht": 4088.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0335",
+    "team_manager": "TL7",
+    "chat_aht": 24814.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0336",
+    "team_manager": "TL7",
+    "chat_aht": 21378.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0339",
+    "team_manager": "TL7",
+    "chat_aht": 3242.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0340",
+    "team_manager": "TL7",
+    "chat_aht": 18304.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0341",
+    "team_manager": "TL7",
+    "chat_aht": 6926.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0344",
+    "team_manager": "TL7",
+    "chat_aht": 218.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0346",
+    "team_manager": "TL7",
+    "chat_aht": 69.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0349",
+    "team_manager": "TL7",
+    "chat_aht": 6603.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0352",
+    "team_manager": "TL8",
+    "chat_aht": 17857.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0353",
+    "team_manager": "TL8",
+    "chat_aht": 17051.68,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0354",
+    "team_manager": "TL8",
+    "chat_aht": 21606.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0360",
+    "team_manager": "TL8",
+    "chat_aht": 22757.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0362",
+    "team_manager": "TL8",
+    "chat_aht": 9131.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0364",
+    "team_manager": "TL8",
+    "chat_aht": 9634.56,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0365",
+    "team_manager": "TL8",
+    "chat_aht": 19076.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0368",
+    "team_manager": "TL8",
+    "chat_aht": 19356.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0370",
+    "team_manager": "TL8",
+    "chat_aht": 23422.85,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0373",
+    "team_manager": "TL8",
+    "chat_aht": 23923.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0374",
+    "team_manager": "TL8",
+    "chat_aht": 18846.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0376",
+    "team_manager": "TL8",
+    "chat_aht": 23748.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0378",
+    "team_manager": "TL8",
+    "chat_aht": 17434.06,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0379",
+    "team_manager": "TL8",
+    "chat_aht": 22853.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0380",
+    "team_manager": "TL8",
+    "chat_aht": 5190.82,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0383",
+    "team_manager": "TL8",
+    "chat_aht": 7574.27,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0386",
+    "team_manager": "TL8",
+    "chat_aht": 11481.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0387",
+    "team_manager": "TL8",
+    "chat_aht": 22343.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0389",
+    "team_manager": "TL8",
+    "chat_aht": 7025.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0391",
+    "team_manager": "TL8",
+    "chat_aht": 15495.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0392",
+    "team_manager": "TL8",
+    "chat_aht": 17137.75,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0395",
+    "team_manager": "TL8",
+    "chat_aht": 22617.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0397",
+    "team_manager": "TL8",
+    "chat_aht": 20410.57,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0400",
+    "team_manager": "TL8",
+    "chat_aht": 17334.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0401",
+    "team_manager": "TL9",
+    "chat_aht": 19254.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0404",
+    "team_manager": "TL9",
+    "chat_aht": 20964.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0405",
+    "team_manager": "TL9",
+    "chat_aht": 20958.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0407",
+    "team_manager": "TL9",
+    "chat_aht": 11793.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0408",
+    "team_manager": "TL9",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0409",
+    "team_manager": "TL9",
+    "chat_aht": 9059.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0411",
+    "team_manager": "TL9",
+    "chat_aht": 19689.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0413",
+    "team_manager": "TL9",
+    "chat_aht": 10777.57,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0415",
+    "team_manager": "TL9",
+    "chat_aht": 23567.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0416",
+    "team_manager": "TL9",
+    "chat_aht": 9359.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0417",
+    "team_manager": "TL9",
+    "chat_aht": 8676.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0418",
+    "team_manager": "TL9",
+    "chat_aht": 4560.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0419",
+    "team_manager": "TL9",
+    "chat_aht": 8919.57,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0420",
+    "team_manager": "TL9",
+    "chat_aht": 3423.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0421",
+    "team_manager": "TL9",
+    "chat_aht": 7340.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0426",
+    "team_manager": "TL9",
+    "chat_aht": 4573.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0427",
+    "team_manager": "TL9",
+    "chat_aht": 23246.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0428",
+    "team_manager": "TL9",
+    "chat_aht": 24064.68,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0429",
+    "team_manager": "TL9",
+    "chat_aht": 19861.51,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0430",
+    "team_manager": "TL9",
+    "chat_aht": 6176.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0431",
+    "team_manager": "TL9",
+    "chat_aht": 21946.93,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0433",
+    "team_manager": "TL9",
+    "chat_aht": 21118.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0435",
+    "team_manager": "TL9",
+    "chat_aht": 9145.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0437",
+    "team_manager": "TL9",
+    "chat_aht": 23199.75,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0438",
+    "team_manager": "TL9",
+    "chat_aht": 16168.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0439",
+    "team_manager": "TL9",
+    "chat_aht": 8900.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0440",
+    "team_manager": "TL9",
+    "chat_aht": 15949.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0441",
+    "team_manager": "TL9",
+    "chat_aht": 22344.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0446",
+    "team_manager": "TL9",
+    "chat_aht": 22590.62,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0447",
+    "team_manager": "TL9",
+    "chat_aht": 21474.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0448",
+    "team_manager": "TL9",
+    "chat_aht": 20437.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0449",
+    "team_manager": "TL9",
+    "chat_aht": 1643.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0450",
+    "team_manager": "TL9",
+    "chat_aht": 2637.92,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0452",
+    "team_manager": "TL10",
+    "chat_aht": 21450.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0453",
+    "team_manager": "TL10",
+    "chat_aht": 17170.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0454",
+    "team_manager": "TL10",
+    "chat_aht": 11210.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0457",
+    "team_manager": "TL10",
+    "chat_aht": 21855.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0458",
+    "team_manager": "TL10",
+    "chat_aht": 14540.55,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0459",
+    "team_manager": "TL10",
+    "chat_aht": 11581.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0462",
+    "team_manager": "TL10",
+    "chat_aht": 1924.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0463",
+    "team_manager": "TL10",
+    "chat_aht": 7964.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0467",
+    "team_manager": "TL10",
+    "chat_aht": 16556.62,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0469",
+    "team_manager": "TL10",
+    "chat_aht": 21012.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0470",
+    "team_manager": "TL10",
+    "chat_aht": 25027.42,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0471",
+    "team_manager": "TL10",
+    "chat_aht": 5260.92,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0474",
+    "team_manager": "TL10",
+    "chat_aht": 3521.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0475",
+    "team_manager": "TL10",
+    "chat_aht": 15997.54,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0478",
+    "team_manager": "TL10",
+    "chat_aht": 23154.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0479",
+    "team_manager": "TL10",
+    "chat_aht": 22566.83,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0481",
+    "team_manager": "TL10",
+    "chat_aht": 2997.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0482",
+    "team_manager": "TL10",
+    "chat_aht": 19224.49,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0484",
+    "team_manager": "TL10",
+    "chat_aht": 19203.94,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0488",
+    "team_manager": "TL10",
+    "chat_aht": 23193.83,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0491",
+    "team_manager": "TL10",
+    "chat_aht": 25430.14,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0492",
+    "team_manager": "TL10",
+    "chat_aht": 8790.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0493",
+    "team_manager": "TL10",
+    "chat_aht": 8624.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0494",
+    "team_manager": "TL10",
+    "chat_aht": 6772.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0496",
+    "team_manager": "TL10",
+    "chat_aht": 6894.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0499",
+    "team_manager": "TL10",
+    "chat_aht": 4654.45,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0500",
+    "team_manager": "TL10",
+    "chat_aht": 19846.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0502",
+    "team_manager": "TL11",
+    "chat_aht": 22783.15,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0503",
+    "team_manager": "TL11",
+    "chat_aht": 20827.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0504",
+    "team_manager": "TL11",
+    "chat_aht": 22836.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0506",
+    "team_manager": "TL11",
+    "chat_aht": 5110.03,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0508",
+    "team_manager": "TL11",
+    "chat_aht": 18467.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0509",
+    "team_manager": "TL11",
+    "chat_aht": 21552.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0512",
+    "team_manager": "TL11",
+    "chat_aht": 8811.94,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0514",
+    "team_manager": "TL11",
+    "chat_aht": 24131.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0515",
+    "team_manager": "TL11",
+    "chat_aht": 14395.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0518",
+    "team_manager": "TL11",
+    "chat_aht": 10466.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0519",
+    "team_manager": "TL11",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0523",
+    "team_manager": "TL11",
+    "chat_aht": 24167.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0525",
+    "team_manager": "TL11",
+    "chat_aht": 4663.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0529",
+    "team_manager": "TL11",
+    "chat_aht": 17828.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0533",
+    "team_manager": "TL11",
+    "chat_aht": 9077.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0538",
+    "team_manager": "TL11",
+    "chat_aht": 7429.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0539",
+    "team_manager": "TL11",
+    "chat_aht": 19653.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0541",
+    "team_manager": "TL11",
+    "chat_aht": 1417.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0542",
+    "team_manager": "TL11",
+    "chat_aht": 22831.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0543",
+    "team_manager": "TL11",
+    "chat_aht": 3210.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0544",
+    "team_manager": "TL11",
+    "chat_aht": 2590.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0545",
+    "team_manager": "TL11",
+    "chat_aht": 16117.07,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0546",
+    "team_manager": "TL11",
+    "chat_aht": 21647.81,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0547",
+    "team_manager": "TL11",
+    "chat_aht": 21448.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0551",
+    "team_manager": "TL12",
+    "chat_aht": 25803.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0553",
+    "team_manager": "TL12",
+    "chat_aht": 6817.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0554",
+    "team_manager": "TL12",
+    "chat_aht": 19635.68,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0556",
+    "team_manager": "TL12",
+    "chat_aht": 8403.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0557",
+    "team_manager": "TL12",
+    "chat_aht": 551.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0558",
+    "team_manager": "TL12",
+    "chat_aht": 13281.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0559",
+    "team_manager": "TL12",
+    "chat_aht": 7995.76,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0562",
+    "team_manager": "TL12",
+    "chat_aht": 8730.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0563",
+    "team_manager": "TL12",
+    "chat_aht": 3916.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0564",
+    "team_manager": "TL12",
+    "chat_aht": 21547.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0565",
+    "team_manager": "TL12",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0566",
+    "team_manager": "TL12",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0567",
+    "team_manager": "TL12",
+    "chat_aht": 17586.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0568",
+    "team_manager": "TL12",
+    "chat_aht": 10225.07,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0569",
+    "team_manager": "TL12",
+    "chat_aht": 10530.51,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0573",
+    "team_manager": "TL12",
+    "chat_aht": 6169.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0575",
+    "team_manager": "TL12",
+    "chat_aht": 21659.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0576",
+    "team_manager": "TL12",
+    "chat_aht": 17111.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0578",
+    "team_manager": "TL12",
+    "chat_aht": 1416.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0579",
+    "team_manager": "TL12",
+    "chat_aht": 17524.22,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0580",
+    "team_manager": "TL12",
+    "chat_aht": 8154.32,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0581",
+    "team_manager": "TL12",
+    "chat_aht": 7445.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0582",
+    "team_manager": "TL12",
+    "chat_aht": 8816.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0585",
+    "team_manager": "TL12",
+    "chat_aht": 7773.83,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0586",
+    "team_manager": "TL12",
+    "chat_aht": 18053.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0587",
+    "team_manager": "TL12",
+    "chat_aht": 6173.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0589",
+    "team_manager": "TL12",
+    "chat_aht": 2743.84,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0591",
+    "team_manager": "TL12",
+    "chat_aht": 21343.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0592",
+    "team_manager": "TL12",
+    "chat_aht": 10474.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0593",
+    "team_manager": "TL12",
+    "chat_aht": 19007.85,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0595",
+    "team_manager": "TL12",
+    "chat_aht": 14128.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0597",
+    "team_manager": "TL12",
+    "chat_aht": 24273.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0599",
+    "team_manager": "TL12",
+    "chat_aht": 9029.55,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0600",
+    "team_manager": "TL12",
+    "chat_aht": 8225.15,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0601",
+    "team_manager": "TL13",
+    "chat_aht": 18977.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0602",
+    "team_manager": "TL13",
+    "chat_aht": 21991.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0603",
+    "team_manager": "TL13",
+    "chat_aht": 20160.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0604",
+    "team_manager": "TL13",
+    "chat_aht": 9227.37,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0607",
+    "team_manager": "TL13",
+    "chat_aht": 6871.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0608",
+    "team_manager": "TL13",
+    "chat_aht": 21855.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0610",
+    "team_manager": "TL13",
+    "chat_aht": 7775.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0613",
+    "team_manager": "TL13",
+    "chat_aht": 11404.07,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0614",
+    "team_manager": "TL13",
+    "chat_aht": 4604.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0616",
+    "team_manager": "TL13",
+    "chat_aht": 12530.08,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0617",
+    "team_manager": "TL13",
+    "chat_aht": 24522.56,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0618",
+    "team_manager": "TL13",
+    "chat_aht": 3609.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0623",
+    "team_manager": "TL13",
+    "chat_aht": 22868.85,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0624",
+    "team_manager": "TL13",
+    "chat_aht": 938.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0625",
+    "team_manager": "TL13",
+    "chat_aht": 23051.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0626",
+    "team_manager": "TL13",
+    "chat_aht": 21980.84,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0628",
+    "team_manager": "TL13",
+    "chat_aht": 20937.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0630",
+    "team_manager": "TL13",
+    "chat_aht": 19400.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0632",
+    "team_manager": "TL13",
+    "chat_aht": 22104.27,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0634",
+    "team_manager": "TL13",
+    "chat_aht": 19161.81,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0635",
+    "team_manager": "TL13",
+    "chat_aht": 23198.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0636",
+    "team_manager": "TL13",
+    "chat_aht": 22259.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0637",
+    "team_manager": "TL13",
+    "chat_aht": 22918.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0640",
+    "team_manager": "TL13",
+    "chat_aht": 20584.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0642",
+    "team_manager": "TL13",
+    "chat_aht": 22787.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0646",
+    "team_manager": "TL13",
+    "chat_aht": 8680.92,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0647",
+    "team_manager": "TL13",
+    "chat_aht": 22069.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0651",
+    "team_manager": "TL14",
+    "chat_aht": 20981.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0654",
+    "team_manager": "TL14",
+    "chat_aht": 3181.76,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0655",
+    "team_manager": "TL14",
+    "chat_aht": 19896.94,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0656",
+    "team_manager": "TL14",
+    "chat_aht": 15951.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0657",
+    "team_manager": "TL14",
+    "chat_aht": 24493.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0659",
+    "team_manager": "TL14",
+    "chat_aht": 19167.68,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0661",
+    "team_manager": "TL14",
+    "chat_aht": 11713.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0663",
+    "team_manager": "TL14",
+    "chat_aht": 11593.68,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0666",
+    "team_manager": "TL14",
+    "chat_aht": 10702.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0668",
+    "team_manager": "TL14",
+    "chat_aht": 18614.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0669",
+    "team_manager": "TL14",
+    "chat_aht": 1659.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0670",
+    "team_manager": "TL14",
+    "chat_aht": 8530.55,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0671",
+    "team_manager": "TL14",
+    "chat_aht": 8126.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0673",
+    "team_manager": "TL14",
+    "chat_aht": 3082.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0674",
+    "team_manager": "TL14",
+    "chat_aht": 18383.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0675",
+    "team_manager": "TL14",
+    "chat_aht": 3478.05,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0676",
+    "team_manager": "TL14",
+    "chat_aht": 17341.4,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0678",
+    "team_manager": "TL14",
+    "chat_aht": 21952.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0681",
+    "team_manager": "TL14",
+    "chat_aht": 18386.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0682",
+    "team_manager": "TL14",
+    "chat_aht": 1677.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0683",
+    "team_manager": "TL14",
+    "chat_aht": 20124.49,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0684",
+    "team_manager": "TL14",
+    "chat_aht": 9941.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0685",
+    "team_manager": "TL14",
+    "chat_aht": 3690.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0686",
+    "team_manager": "TL14",
+    "chat_aht": 22681.49,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0687",
+    "team_manager": "TL14",
+    "chat_aht": 23534.76,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0688",
+    "team_manager": "TL14",
+    "chat_aht": 26417.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0689",
+    "team_manager": "TL14",
+    "chat_aht": 5414.05,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0690",
+    "team_manager": "TL14",
+    "chat_aht": 1841.51,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0694",
+    "team_manager": "TL14",
+    "chat_aht": 10299.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0695",
+    "team_manager": "TL14",
+    "chat_aht": 19176.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0698",
+    "team_manager": "TL14",
+    "chat_aht": 11560.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0703",
+    "team_manager": "TL15",
+    "chat_aht": 17215.67,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0704",
+    "team_manager": "TL15",
+    "chat_aht": 20266.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0705",
+    "team_manager": "TL15",
+    "chat_aht": 23286.75,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0707",
+    "team_manager": "TL15",
+    "chat_aht": 20148.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0708",
+    "team_manager": "TL15",
+    "chat_aht": 15521.22,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0709",
+    "team_manager": "TL15",
+    "chat_aht": 19337.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0710",
+    "team_manager": "TL15",
+    "chat_aht": 555.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0712",
+    "team_manager": "TL15",
+    "chat_aht": 5121.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0713",
+    "team_manager": "TL15",
+    "chat_aht": 5607.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0714",
+    "team_manager": "TL15",
+    "chat_aht": 6683.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0717",
+    "team_manager": "TL15",
+    "chat_aht": 17655.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0718",
+    "team_manager": "TL15",
+    "chat_aht": 6248.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0720",
+    "team_manager": "TL15",
+    "chat_aht": 1853.27,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0721",
+    "team_manager": "TL15",
+    "chat_aht": 18003.42,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0722",
+    "team_manager": "TL15",
+    "chat_aht": 11092.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0724",
+    "team_manager": "TL15",
+    "chat_aht": 22028.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0726",
+    "team_manager": "TL15",
+    "chat_aht": 18147.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0727",
+    "team_manager": "TL15",
+    "chat_aht": 7779.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0728",
+    "team_manager": "TL15",
+    "chat_aht": 18294.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0729",
+    "team_manager": "TL15",
+    "chat_aht": 6920.77,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0730",
+    "team_manager": "TL15",
+    "chat_aht": 8454.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0731",
+    "team_manager": "TL15",
+    "chat_aht": 2991.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0732",
+    "team_manager": "TL15",
+    "chat_aht": 19710.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0733",
+    "team_manager": "TL15",
+    "chat_aht": 21112.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0734",
+    "team_manager": "TL15",
+    "chat_aht": 9933.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0735",
+    "team_manager": "TL15",
+    "chat_aht": 9155.94,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0737",
+    "team_manager": "TL15",
+    "chat_aht": 20633.84,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0739",
+    "team_manager": "TL15",
+    "chat_aht": 624.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0740",
+    "team_manager": "TL15",
+    "chat_aht": 9053.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0741",
+    "team_manager": "TL15",
+    "chat_aht": 10240.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0742",
+    "team_manager": "TL15",
+    "chat_aht": 19057.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0743",
+    "team_manager": "TL15",
+    "chat_aht": 23008.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0744",
+    "team_manager": "TL15",
+    "chat_aht": 20936.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0745",
+    "team_manager": "TL15",
+    "chat_aht": 21219.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0746",
+    "team_manager": "TL15",
+    "chat_aht": 8986.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0749",
+    "team_manager": "TL15",
+    "chat_aht": 9484.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0750",
+    "team_manager": "TL15",
+    "chat_aht": 18089.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0754",
+    "team_manager": "TL16",
+    "chat_aht": 11099.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0755",
+    "team_manager": "TL16",
+    "chat_aht": 5559.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0757",
+    "team_manager": "TL16",
+    "chat_aht": 18987.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0759",
+    "team_manager": "TL16",
+    "chat_aht": 16625.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0766",
+    "team_manager": "TL16",
+    "chat_aht": 17118.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0775",
+    "team_manager": "TL16",
+    "chat_aht": 17694.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0794",
+    "team_manager": "TL16",
+    "chat_aht": 3801.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0795",
+    "team_manager": "TL16",
+    "chat_aht": 2008.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0796",
+    "team_manager": "TL16",
+    "chat_aht": 3026.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0797",
+    "team_manager": "TL16",
+    "chat_aht": 15119.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0803",
+    "team_manager": "TL17",
+    "chat_aht": 20092.56,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0807",
+    "team_manager": "TL17",
+    "chat_aht": 5305.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0808",
+    "team_manager": "TL17",
+    "chat_aht": 22809.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0809",
+    "team_manager": "TL17",
+    "chat_aht": 21738.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0810",
+    "team_manager": "TL17",
+    "chat_aht": 22635.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0812",
+    "team_manager": "TL17",
+    "chat_aht": 2680.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0816",
+    "team_manager": "TL17",
+    "chat_aht": 20973.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0817",
+    "team_manager": "TL17",
+    "chat_aht": 10638.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0819",
+    "team_manager": "TL17",
+    "chat_aht": 4782.15,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0820",
+    "team_manager": "TL17",
+    "chat_aht": 18796.03,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0821",
+    "team_manager": "TL17",
+    "chat_aht": 19836.82,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0822",
+    "team_manager": "TL17",
+    "chat_aht": 13270.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0824",
+    "team_manager": "TL17",
+    "chat_aht": 1733.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0827",
+    "team_manager": "TL17",
+    "chat_aht": 20165.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0829",
+    "team_manager": "TL17",
+    "chat_aht": 3600.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0830",
+    "team_manager": "TL17",
+    "chat_aht": 23913.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0833",
+    "team_manager": "TL17",
+    "chat_aht": 24216.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0835",
+    "team_manager": "TL17",
+    "chat_aht": 23425.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0836",
+    "team_manager": "TL17",
+    "chat_aht": 17114.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0837",
+    "team_manager": "TL17",
+    "chat_aht": 19202.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0844",
+    "team_manager": "TL17",
+    "chat_aht": 4082.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0845",
+    "team_manager": "TL17",
+    "chat_aht": 15015.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0846",
+    "team_manager": "TL17",
+    "chat_aht": 14869.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0851",
+    "team_manager": "TL18",
+    "chat_aht": 25270.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0852",
+    "team_manager": "TL18",
+    "chat_aht": 19037.4,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0853",
+    "team_manager": "TL18",
+    "chat_aht": 20324.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0855",
+    "team_manager": "TL18",
+    "chat_aht": 23772.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0856",
+    "team_manager": "TL18",
+    "chat_aht": 211.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0859",
+    "team_manager": "TL18",
+    "chat_aht": 5687.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0860",
+    "team_manager": "TL18",
+    "chat_aht": 2139.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0862",
+    "team_manager": "TL18",
+    "chat_aht": 22861.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0865",
+    "team_manager": "TL18",
+    "chat_aht": 4449.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0869",
+    "team_manager": "TL18",
+    "chat_aht": 1214.67,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0870",
+    "team_manager": "TL18",
+    "chat_aht": 22560.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0872",
+    "team_manager": "TL18",
+    "chat_aht": 9713.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0873",
+    "team_manager": "TL18",
+    "chat_aht": 18522.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0875",
+    "team_manager": "TL18",
+    "chat_aht": 16301.93,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0881",
+    "team_manager": "TL18",
+    "chat_aht": 16682.01,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0882",
+    "team_manager": "TL18",
+    "chat_aht": 18302.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0884",
+    "team_manager": "TL18",
+    "chat_aht": 17901.4,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0886",
+    "team_manager": "TL18",
+    "chat_aht": 20396.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0887",
+    "team_manager": "TL18",
+    "chat_aht": 17641.47,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0888",
+    "team_manager": "TL18",
+    "chat_aht": 1850.94,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0897",
+    "team_manager": "TL18",
+    "chat_aht": 2839.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0898",
+    "team_manager": "TL18",
+    "chat_aht": 18786.26,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0901",
+    "team_manager": "TL19",
+    "chat_aht": 613.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0902",
+    "team_manager": "TL19",
+    "chat_aht": 19392.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0905",
+    "team_manager": "TL19",
+    "chat_aht": 17620.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0909",
+    "team_manager": "TL19",
+    "chat_aht": 18051.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0916",
+    "team_manager": "TL19",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0919",
+    "team_manager": "TL19",
+    "chat_aht": 18136.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0930",
+    "team_manager": "TL19",
+    "chat_aht": 16878.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0936",
+    "team_manager": "TL19",
+    "chat_aht": 3790.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0943",
+    "team_manager": "TL19",
+    "chat_aht": 21240.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0944",
+    "team_manager": "TL19",
+    "chat_aht": 20813.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0945",
+    "team_manager": "TL19",
+    "chat_aht": 3636.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0948",
+    "team_manager": "TL19",
+    "chat_aht": 20971.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0949",
+    "team_manager": "TL19",
+    "chat_aht": 14977.81,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0953",
+    "team_manager": "TL20",
+    "chat_aht": 188.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0956",
+    "team_manager": "TL20",
+    "chat_aht": 1729.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0957",
+    "team_manager": "TL20",
+    "chat_aht": 19284.13,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0960",
+    "team_manager": "TL20",
+    "chat_aht": 17572.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0961",
+    "team_manager": "TL20",
+    "chat_aht": 217.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0962",
+    "team_manager": "TL20",
+    "chat_aht": 1786.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0971",
+    "team_manager": "TL20",
+    "chat_aht": 8312.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0976",
+    "team_manager": "TL20",
+    "chat_aht": 506.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0979",
+    "team_manager": "TL20",
+    "chat_aht": 20399.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0982",
+    "team_manager": "TL20",
+    "chat_aht": 485.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0989",
+    "team_manager": "TL20",
+    "chat_aht": 4142.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0992",
+    "team_manager": "TL20",
+    "chat_aht": 2126.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0993",
+    "team_manager": "TL20",
+    "chat_aht": 19288.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0995",
+    "team_manager": "TL20",
+    "chat_aht": 1522.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0996",
+    "team_manager": "TL20",
+    "chat_aht": 18170.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0998",
+    "team_manager": "TL20",
+    "chat_aht": 19855.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent0999",
+    "team_manager": "TL20",
+    "chat_aht": 5811.24,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1002",
+    "team_manager": "TL21",
+    "chat_aht": 16523.46,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1004",
+    "team_manager": "TL21",
+    "chat_aht": 20273.65,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1007",
+    "team_manager": "TL21",
+    "chat_aht": 21799.76,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1012",
+    "team_manager": "TL21",
+    "chat_aht": 2448.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1013",
+    "team_manager": "TL21",
+    "chat_aht": 2666.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1014",
+    "team_manager": "TL21",
+    "chat_aht": 3919.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1015",
+    "team_manager": "TL21",
+    "chat_aht": 24096.65,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1021",
+    "team_manager": "TL21",
+    "chat_aht": 1396.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1025",
+    "team_manager": "TL21",
+    "chat_aht": 17476.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1032",
+    "team_manager": "TL21",
+    "chat_aht": 4030.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1034",
+    "team_manager": "TL21",
+    "chat_aht": 81.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1035",
+    "team_manager": "TL21",
+    "chat_aht": 10128.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1045",
+    "team_manager": "TL21",
+    "chat_aht": 14468.13,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1046",
+    "team_manager": "TL21",
+    "chat_aht": 19517.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1048",
+    "team_manager": "TL21",
+    "chat_aht": 8922.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1050",
+    "team_manager": "TL21",
+    "chat_aht": 6296.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1052",
+    "team_manager": "TL22",
+    "chat_aht": 10393.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1059",
+    "team_manager": "TL22",
+    "chat_aht": 4046.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1060",
+    "team_manager": "TL22",
+    "chat_aht": 18767.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1061",
+    "team_manager": "TL22",
+    "chat_aht": 4343.49,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1062",
+    "team_manager": "TL22",
+    "chat_aht": 18817.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1063",
+    "team_manager": "TL22",
+    "chat_aht": 3829.77,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1065",
+    "team_manager": "TL22",
+    "chat_aht": 1067.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1072",
+    "team_manager": "TL22",
+    "chat_aht": 18809.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1073",
+    "team_manager": "TL22",
+    "chat_aht": 22519.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1076",
+    "team_manager": "TL22",
+    "chat_aht": 23588.76,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1079",
+    "team_manager": "TL22",
+    "chat_aht": 21554.01,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1080",
+    "team_manager": "TL22",
+    "chat_aht": 16879.07,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1084",
+    "team_manager": "TL22",
+    "chat_aht": 20989.15,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1085",
+    "team_manager": "TL22",
+    "chat_aht": 19037.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1087",
+    "team_manager": "TL22",
+    "chat_aht": 15778.92,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1089",
+    "team_manager": "TL22",
+    "chat_aht": 13077.14,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1093",
+    "team_manager": "TL22",
+    "chat_aht": 4388.4,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1095",
+    "team_manager": "TL22",
+    "chat_aht": 4783.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1097",
+    "team_manager": "TL22",
+    "chat_aht": 20044.24,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1098",
+    "team_manager": "TL22",
+    "chat_aht": 17771.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1101",
+    "team_manager": "TL23",
+    "chat_aht": 17009.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1104",
+    "team_manager": "TL23",
+    "chat_aht": 22507.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1105",
+    "team_manager": "TL23",
+    "chat_aht": 251.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1106",
+    "team_manager": "TL23",
+    "chat_aht": 18175.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1111",
+    "team_manager": "TL23",
+    "chat_aht": 34.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1113",
+    "team_manager": "TL23",
+    "chat_aht": 6269.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1115",
+    "team_manager": "TL23",
+    "chat_aht": 16201.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1116",
+    "team_manager": "TL23",
+    "chat_aht": 22549.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1120",
+    "team_manager": "TL23",
+    "chat_aht": 21747.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1121",
+    "team_manager": "TL23",
+    "chat_aht": 21670.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1123",
+    "team_manager": "TL23",
+    "chat_aht": 22374.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1125",
+    "team_manager": "TL23",
+    "chat_aht": 22526.13,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1126",
+    "team_manager": "TL23",
+    "chat_aht": 8649.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1127",
+    "team_manager": "TL23",
+    "chat_aht": 14393.13,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1129",
+    "team_manager": "TL23",
+    "chat_aht": 6267.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1134",
+    "team_manager": "TL23",
+    "chat_aht": 16527.4,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1137",
+    "team_manager": "TL23",
+    "chat_aht": 8609.4,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1142",
+    "team_manager": "TL23",
+    "chat_aht": 3102.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1146",
+    "team_manager": "TL23",
+    "chat_aht": 19403.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1147",
+    "team_manager": "TL23",
+    "chat_aht": 18804.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1149",
+    "team_manager": "TL23",
+    "chat_aht": 18786.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1151",
+    "team_manager": "TL24",
+    "chat_aht": 17679.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1154",
+    "team_manager": "TL24",
+    "chat_aht": 16860.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1158",
+    "team_manager": "TL24",
+    "chat_aht": 15298.32,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1159",
+    "team_manager": "TL24",
+    "chat_aht": 3520.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1167",
+    "team_manager": "TL24",
+    "chat_aht": 15544.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1168",
+    "team_manager": "TL24",
+    "chat_aht": 5175.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1169",
+    "team_manager": "TL24",
+    "chat_aht": 21381.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1171",
+    "team_manager": "TL24",
+    "chat_aht": 15293.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1175",
+    "team_manager": "TL24",
+    "chat_aht": 17832.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1176",
+    "team_manager": "TL24",
+    "chat_aht": 17443.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1177",
+    "team_manager": "TL24",
+    "chat_aht": 5055.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1178",
+    "team_manager": "TL24",
+    "chat_aht": 20137.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1179",
+    "team_manager": "TL24",
+    "chat_aht": 4708.47,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1184",
+    "team_manager": "TL24",
+    "chat_aht": 18209.54,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1189",
+    "team_manager": "TL24",
+    "chat_aht": 8677.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1190",
+    "team_manager": "TL24",
+    "chat_aht": 6181.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1193",
+    "team_manager": "TL24",
+    "chat_aht": 17492.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1194",
+    "team_manager": "TL24",
+    "chat_aht": 20600.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1198",
+    "team_manager": "TL24",
+    "chat_aht": 8218.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1202",
+    "team_manager": "TL25",
+    "chat_aht": 5344.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1204",
+    "team_manager": "TL25",
+    "chat_aht": 19578.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1211",
+    "team_manager": "TL25",
+    "chat_aht": 6731.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1214",
+    "team_manager": "TL25",
+    "chat_aht": 22999.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1215",
+    "team_manager": "TL25",
+    "chat_aht": 17614.49,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1218",
+    "team_manager": "TL25",
+    "chat_aht": 19986.45,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1220",
+    "team_manager": "TL25",
+    "chat_aht": 4782.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1222",
+    "team_manager": "TL25",
+    "chat_aht": 4951.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1223",
+    "team_manager": "TL25",
+    "chat_aht": 3556.92,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1224",
+    "team_manager": "TL25",
+    "chat_aht": 23335.74,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1226",
+    "team_manager": "TL25",
+    "chat_aht": 19040.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1227",
+    "team_manager": "TL25",
+    "chat_aht": 6879.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1228",
+    "team_manager": "TL25",
+    "chat_aht": 18078.47,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1229",
+    "team_manager": "TL25",
+    "chat_aht": 23141.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1233",
+    "team_manager": "TL25",
+    "chat_aht": 16931.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1235",
+    "team_manager": "TL25",
+    "chat_aht": 23785.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1237",
+    "team_manager": "TL25",
+    "chat_aht": 4614.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1239",
+    "team_manager": "TL25",
+    "chat_aht": 2466.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1240",
+    "team_manager": "TL25",
+    "chat_aht": 9522.47,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1245",
+    "team_manager": "TL25",
+    "chat_aht": 12255.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1248",
+    "team_manager": "TL25",
+    "chat_aht": 15716.75,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1250",
+    "team_manager": "TL25",
+    "chat_aht": 4914.85,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1255",
+    "team_manager": "TL26",
+    "chat_aht": 22066.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1258",
+    "team_manager": "TL26",
+    "chat_aht": 4886.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1265",
+    "team_manager": "TL26",
+    "chat_aht": 20884.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1267",
+    "team_manager": "TL26",
+    "chat_aht": 15582.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1270",
+    "team_manager": "TL26",
+    "chat_aht": 8410.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1271",
+    "team_manager": "TL26",
+    "chat_aht": 5145.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1272",
+    "team_manager": "TL26",
+    "chat_aht": 16175.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1273",
+    "team_manager": "TL26",
+    "chat_aht": 6735.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1277",
+    "team_manager": "TL26",
+    "chat_aht": 5586.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1278",
+    "team_manager": "TL26",
+    "chat_aht": 17390.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1281",
+    "team_manager": "TL26",
+    "chat_aht": 4037.62,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1282",
+    "team_manager": "TL26",
+    "chat_aht": 19478.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1283",
+    "team_manager": "TL26",
+    "chat_aht": 17899.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1284",
+    "team_manager": "TL26",
+    "chat_aht": 20449.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1285",
+    "team_manager": "TL26",
+    "chat_aht": 19999.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1290",
+    "team_manager": "TL26",
+    "chat_aht": 12463.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1292",
+    "team_manager": "TL26",
+    "chat_aht": 2793.67,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1293",
+    "team_manager": "TL26",
+    "chat_aht": 19960.01,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1294",
+    "team_manager": "TL26",
+    "chat_aht": 3285.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1298",
+    "team_manager": "TL26",
+    "chat_aht": 17921.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1301",
+    "team_manager": "TL27",
+    "chat_aht": 15780.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1308",
+    "team_manager": "TL27",
+    "chat_aht": 20661.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1309",
+    "team_manager": "TL27",
+    "chat_aht": 17294.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1312",
+    "team_manager": "TL27",
+    "chat_aht": 21908.15,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1317",
+    "team_manager": "TL27",
+    "chat_aht": 11738.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1318",
+    "team_manager": "TL27",
+    "chat_aht": 18334.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1319",
+    "team_manager": "TL27",
+    "chat_aht": 24174.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1320",
+    "team_manager": "TL27",
+    "chat_aht": 3274.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1324",
+    "team_manager": "TL27",
+    "chat_aht": 4467.84,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1325",
+    "team_manager": "TL27",
+    "chat_aht": 24188.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1327",
+    "team_manager": "TL27",
+    "chat_aht": 13835.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1332",
+    "team_manager": "TL27",
+    "chat_aht": 4187.05,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1333",
+    "team_manager": "TL27",
+    "chat_aht": 4721.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1335",
+    "team_manager": "TL27",
+    "chat_aht": 4016.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1336",
+    "team_manager": "TL27",
+    "chat_aht": 6016.85,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1337",
+    "team_manager": "TL27",
+    "chat_aht": 22238.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1338",
+    "team_manager": "TL27",
+    "chat_aht": 23938.49,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1340",
+    "team_manager": "TL27",
+    "chat_aht": 4004.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1341",
+    "team_manager": "TL27",
+    "chat_aht": 20121.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1344",
+    "team_manager": "TL27",
+    "chat_aht": 20626.14,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1345",
+    "team_manager": "TL27",
+    "chat_aht": 835.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1347",
+    "team_manager": "TL27",
+    "chat_aht": 23596.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1351",
+    "team_manager": "TL28",
+    "chat_aht": 22276.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1352",
+    "team_manager": "TL28",
+    "chat_aht": 17294.24,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1356",
+    "team_manager": "TL28",
+    "chat_aht": 23067.46,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1357",
+    "team_manager": "TL28",
+    "chat_aht": 16030.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1358",
+    "team_manager": "TL28",
+    "chat_aht": 19373.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1360",
+    "team_manager": "TL28",
+    "chat_aht": 24231.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1362",
+    "team_manager": "TL28",
+    "chat_aht": 15773.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1364",
+    "team_manager": "TL28",
+    "chat_aht": 1886.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1366",
+    "team_manager": "TL28",
+    "chat_aht": 21136.81,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1367",
+    "team_manager": "TL28",
+    "chat_aht": 3959.73,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1368",
+    "team_manager": "TL28",
+    "chat_aht": 4694.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1371",
+    "team_manager": "TL28",
+    "chat_aht": 23464.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1372",
+    "team_manager": "TL28",
+    "chat_aht": 22335.42,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1373",
+    "team_manager": "TL28",
+    "chat_aht": 2833.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1376",
+    "team_manager": "TL28",
+    "chat_aht": 7055.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1379",
+    "team_manager": "TL28",
+    "chat_aht": 22024.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1380",
+    "team_manager": "TL28",
+    "chat_aht": 7065.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1382",
+    "team_manager": "TL28",
+    "chat_aht": 20810.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1384",
+    "team_manager": "TL28",
+    "chat_aht": 5278.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1386",
+    "team_manager": "TL28",
+    "chat_aht": 15101.14,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1388",
+    "team_manager": "TL28",
+    "chat_aht": 25093.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1389",
+    "team_manager": "TL28",
+    "chat_aht": 4869.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1390",
+    "team_manager": "TL28",
+    "chat_aht": 15179.73,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1392",
+    "team_manager": "TL28",
+    "chat_aht": 5600.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1393",
+    "team_manager": "TL28",
+    "chat_aht": 22584.15,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1394",
+    "team_manager": "TL28",
+    "chat_aht": 2183.68,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1395",
+    "team_manager": "TL28",
+    "chat_aht": 3507.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1397",
+    "team_manager": "TL28",
+    "chat_aht": 2029.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1398",
+    "team_manager": "TL28",
+    "chat_aht": 5460.62,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1400",
+    "team_manager": "TL28",
+    "chat_aht": 2433.22,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1402",
+    "team_manager": "TL29",
+    "chat_aht": 21992.49,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1404",
+    "team_manager": "TL29",
+    "chat_aht": 21636.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1406",
+    "team_manager": "TL29",
+    "chat_aht": 2141.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1407",
+    "team_manager": "TL29",
+    "chat_aht": 19403.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1408",
+    "team_manager": "TL29",
+    "chat_aht": 23124.06,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1410",
+    "team_manager": "TL29",
+    "chat_aht": 24553.32,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1411",
+    "team_manager": "TL29",
+    "chat_aht": 21958.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1412",
+    "team_manager": "TL29",
+    "chat_aht": 20606.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1414",
+    "team_manager": "TL29",
+    "chat_aht": 547.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1415",
+    "team_manager": "TL29",
+    "chat_aht": 2466.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1416",
+    "team_manager": "TL29",
+    "chat_aht": 4634.27,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1417",
+    "team_manager": "TL29",
+    "chat_aht": 10117.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1418",
+    "team_manager": "TL29",
+    "chat_aht": 24651.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1419",
+    "team_manager": "TL29",
+    "chat_aht": 3744.05,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1424",
+    "team_manager": "TL29",
+    "chat_aht": 13389.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1427",
+    "team_manager": "TL29",
+    "chat_aht": 18431.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1429",
+    "team_manager": "TL29",
+    "chat_aht": 11831.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1432",
+    "team_manager": "TL29",
+    "chat_aht": 17417.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1433",
+    "team_manager": "TL29",
+    "chat_aht": 2630.67,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1435",
+    "team_manager": "TL29",
+    "chat_aht": 839.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1436",
+    "team_manager": "TL29",
+    "chat_aht": 14022.45,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1437",
+    "team_manager": "TL29",
+    "chat_aht": 17248.27,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1438",
+    "team_manager": "TL29",
+    "chat_aht": 19613.08,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1446",
+    "team_manager": "TL29",
+    "chat_aht": 24084.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1448",
+    "team_manager": "TL29",
+    "chat_aht": 20743.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1451",
+    "team_manager": "TL30",
+    "chat_aht": 22114.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1454",
+    "team_manager": "TL30",
+    "chat_aht": 19654.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1455",
+    "team_manager": "TL30",
+    "chat_aht": 3080.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1456",
+    "team_manager": "TL30",
+    "chat_aht": 20722.42,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1457",
+    "team_manager": "TL30",
+    "chat_aht": 17302.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1458",
+    "team_manager": "TL30",
+    "chat_aht": 24268.03,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1459",
+    "team_manager": "TL30",
+    "chat_aht": 14324.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1460",
+    "team_manager": "TL30",
+    "chat_aht": 12343.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1462",
+    "team_manager": "TL30",
+    "chat_aht": 2670.27,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1463",
+    "team_manager": "TL30",
+    "chat_aht": 17204.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1468",
+    "team_manager": "TL30",
+    "chat_aht": 3517.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1469",
+    "team_manager": "TL30",
+    "chat_aht": 3477.73,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1471",
+    "team_manager": "TL30",
+    "chat_aht": 1023.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1473",
+    "team_manager": "TL30",
+    "chat_aht": 18632.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1474",
+    "team_manager": "TL30",
+    "chat_aht": 21394.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1475",
+    "team_manager": "TL30",
+    "chat_aht": 17923.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1476",
+    "team_manager": "TL30",
+    "chat_aht": 738.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1479",
+    "team_manager": "TL30",
+    "chat_aht": 23192.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1480",
+    "team_manager": "TL30",
+    "chat_aht": 22260.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1481",
+    "team_manager": "TL30",
+    "chat_aht": 6971.73,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1483",
+    "team_manager": "TL30",
+    "chat_aht": 4720.07,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1484",
+    "team_manager": "TL30",
+    "chat_aht": 24128.83,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1485",
+    "team_manager": "TL30",
+    "chat_aht": 21541.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1486",
+    "team_manager": "TL30",
+    "chat_aht": 20528.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1489",
+    "team_manager": "TL30",
+    "chat_aht": 12401.9,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1492",
+    "team_manager": "TL30",
+    "chat_aht": 1836.94,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1495",
+    "team_manager": "TL30",
+    "chat_aht": 5697.83,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1496",
+    "team_manager": "TL30",
+    "chat_aht": 17672.13,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1503",
+    "team_manager": "TL31",
+    "chat_aht": 1443.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1504",
+    "team_manager": "TL31",
+    "chat_aht": 921.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1505",
+    "team_manager": "TL31",
+    "chat_aht": 185.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1506",
+    "team_manager": "TL31",
+    "chat_aht": 4070.07,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1508",
+    "team_manager": "TL31",
+    "chat_aht": 20174.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1511",
+    "team_manager": "TL31",
+    "chat_aht": 23436.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1513",
+    "team_manager": "TL31",
+    "chat_aht": 15836.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1516",
+    "team_manager": "TL31",
+    "chat_aht": 498.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1518",
+    "team_manager": "TL31",
+    "chat_aht": 16435.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1520",
+    "team_manager": "TL31",
+    "chat_aht": 5553.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1527",
+    "team_manager": "TL31",
+    "chat_aht": 1201.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1528",
+    "team_manager": "TL31",
+    "chat_aht": 449.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1530",
+    "team_manager": "TL31",
+    "chat_aht": 3061.74,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1532",
+    "team_manager": "TL31",
+    "chat_aht": 3349.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1533",
+    "team_manager": "TL31",
+    "chat_aht": 1666.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1534",
+    "team_manager": "TL31",
+    "chat_aht": 1677.15,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1537",
+    "team_manager": "TL31",
+    "chat_aht": 6425.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1539",
+    "team_manager": "TL31",
+    "chat_aht": 25883.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1540",
+    "team_manager": "TL31",
+    "chat_aht": 15952.91,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1541",
+    "team_manager": "TL31",
+    "chat_aht": 3674.82,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1542",
+    "team_manager": "TL31",
+    "chat_aht": 13816.76,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1543",
+    "team_manager": "TL31",
+    "chat_aht": 4637.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1545",
+    "team_manager": "TL31",
+    "chat_aht": 1157.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1547",
+    "team_manager": "TL31",
+    "chat_aht": 18509.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1548",
+    "team_manager": "TL31",
+    "chat_aht": 8439.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1549",
+    "team_manager": "TL31",
+    "chat_aht": 1887.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1552",
+    "team_manager": "TL32",
+    "chat_aht": 4365.74,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1553",
+    "team_manager": "TL32",
+    "chat_aht": 17567.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1554",
+    "team_manager": "TL32",
+    "chat_aht": 4355.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1555",
+    "team_manager": "TL32",
+    "chat_aht": 402.26,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1556",
+    "team_manager": "TL32",
+    "chat_aht": 8888.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1557",
+    "team_manager": "TL32",
+    "chat_aht": 3630.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1558",
+    "team_manager": "TL32",
+    "chat_aht": 10890.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1559",
+    "team_manager": "TL32",
+    "chat_aht": 18117.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1562",
+    "team_manager": "TL32",
+    "chat_aht": 605.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1563",
+    "team_manager": "TL32",
+    "chat_aht": 1092.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1566",
+    "team_manager": "TL32",
+    "chat_aht": 2842.13,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1573",
+    "team_manager": "TL32",
+    "chat_aht": 22042.08,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1574",
+    "team_manager": "TL32",
+    "chat_aht": 17726.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1575",
+    "team_manager": "TL32",
+    "chat_aht": 881.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1579",
+    "team_manager": "TL32",
+    "chat_aht": 3892.32,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1580",
+    "team_manager": "TL32",
+    "chat_aht": 2999.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1583",
+    "team_manager": "TL32",
+    "chat_aht": 604.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1584",
+    "team_manager": "TL32",
+    "chat_aht": 3079.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1585",
+    "team_manager": "TL32",
+    "chat_aht": 21868.24,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1586",
+    "team_manager": "TL32",
+    "chat_aht": 15114.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1591",
+    "team_manager": "TL32",
+    "chat_aht": 21166.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1593",
+    "team_manager": "TL32",
+    "chat_aht": 4439.45,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1595",
+    "team_manager": "TL32",
+    "chat_aht": 20225.65,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1599",
+    "team_manager": "TL32",
+    "chat_aht": 9092.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1601",
+    "team_manager": "TL33",
+    "chat_aht": 17122.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1602",
+    "team_manager": "TL33",
+    "chat_aht": 2132.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1604",
+    "team_manager": "TL33",
+    "chat_aht": 3182.91,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1606",
+    "team_manager": "TL33",
+    "chat_aht": 24145.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1607",
+    "team_manager": "TL33",
+    "chat_aht": 1644.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1608",
+    "team_manager": "TL33",
+    "chat_aht": 6907.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1611",
+    "team_manager": "TL33",
+    "chat_aht": 1047.75,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1612",
+    "team_manager": "TL33",
+    "chat_aht": 3764.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1614",
+    "team_manager": "TL33",
+    "chat_aht": 21401.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1616",
+    "team_manager": "TL33",
+    "chat_aht": 2712.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1617",
+    "team_manager": "TL33",
+    "chat_aht": 6954.45,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1618",
+    "team_manager": "TL33",
+    "chat_aht": 15303.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1619",
+    "team_manager": "TL33",
+    "chat_aht": 18687.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1635",
+    "team_manager": "TL33",
+    "chat_aht": 19590.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1637",
+    "team_manager": "TL33",
+    "chat_aht": 11157.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1641",
+    "team_manager": "TL33",
+    "chat_aht": 6769.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1648",
+    "team_manager": "TL33",
+    "chat_aht": 13100.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1649",
+    "team_manager": "TL33",
+    "chat_aht": 5226.45,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1650",
+    "team_manager": "TL33",
+    "chat_aht": 1117.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1652",
+    "team_manager": "TL34",
+    "chat_aht": 1197.93,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1653",
+    "team_manager": "TL34",
+    "chat_aht": 4660.54,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1656",
+    "team_manager": "TL34",
+    "chat_aht": 4853.05,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1659",
+    "team_manager": "TL34",
+    "chat_aht": 22344.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1660",
+    "team_manager": "TL34",
+    "chat_aht": 495.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1661",
+    "team_manager": "TL34",
+    "chat_aht": 492.26,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1664",
+    "team_manager": "TL34",
+    "chat_aht": 18761.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1666",
+    "team_manager": "TL34",
+    "chat_aht": 2230.67,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1667",
+    "team_manager": "TL34",
+    "chat_aht": 2718.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1668",
+    "team_manager": "TL34",
+    "chat_aht": 3791.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1669",
+    "team_manager": "TL34",
+    "chat_aht": 3669.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1672",
+    "team_manager": "TL34",
+    "chat_aht": 970.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1674",
+    "team_manager": "TL34",
+    "chat_aht": 23344.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1675",
+    "team_manager": "TL34",
+    "chat_aht": 1541.54,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1676",
+    "team_manager": "TL34",
+    "chat_aht": 5761.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1677",
+    "team_manager": "TL34",
+    "chat_aht": 1176.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1679",
+    "team_manager": "TL34",
+    "chat_aht": 417.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1680",
+    "team_manager": "TL34",
+    "chat_aht": 1088.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1683",
+    "team_manager": "TL34",
+    "chat_aht": 565.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1684",
+    "team_manager": "TL34",
+    "chat_aht": 22828.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1687",
+    "team_manager": "TL34",
+    "chat_aht": 1169.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1689",
+    "team_manager": "TL34",
+    "chat_aht": 1347.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1690",
+    "team_manager": "TL34",
+    "chat_aht": 1738.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1691",
+    "team_manager": "TL34",
+    "chat_aht": 17918.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1693",
+    "team_manager": "TL34",
+    "chat_aht": 2201.37,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1694",
+    "team_manager": "TL34",
+    "chat_aht": 3448.55,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1695",
+    "team_manager": "TL34",
+    "chat_aht": 16700.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1696",
+    "team_manager": "TL34",
+    "chat_aht": 7808.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1697",
+    "team_manager": "TL34",
+    "chat_aht": 4229.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1698",
+    "team_manager": "TL34",
+    "chat_aht": 5272.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1699",
+    "team_manager": "TL34",
+    "chat_aht": 1599.73,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1700",
+    "team_manager": "TL34",
+    "chat_aht": 7265.65,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1702",
+    "team_manager": "TL35",
+    "chat_aht": 18089.51,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1706",
+    "team_manager": "TL35",
+    "chat_aht": 16853.62,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1708",
+    "team_manager": "TL35",
+    "chat_aht": 19363.92,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1711",
+    "team_manager": "TL35",
+    "chat_aht": 19907.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1713",
+    "team_manager": "TL35",
+    "chat_aht": 15459.51,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1714",
+    "team_manager": "TL35",
+    "chat_aht": 20202.03,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1723",
+    "team_manager": "TL35",
+    "chat_aht": 19532.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1726",
+    "team_manager": "TL35",
+    "chat_aht": 21064.94,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1735",
+    "team_manager": "TL35",
+    "chat_aht": 17125.49,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1736",
+    "team_manager": "TL35",
+    "chat_aht": 22121.89,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1737",
+    "team_manager": "TL35",
+    "chat_aht": 18726.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1739",
+    "team_manager": "TL35",
+    "chat_aht": 17518.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1740",
+    "team_manager": "TL35",
+    "chat_aht": 19261.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1741",
+    "team_manager": "TL35",
+    "chat_aht": 19096.37,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1742",
+    "team_manager": "TL35",
+    "chat_aht": 23704.06,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1750",
+    "team_manager": "TL35",
+    "chat_aht": 1974.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1752",
+    "team_manager": "TL36",
+    "chat_aht": 1052.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1753",
+    "team_manager": "TL36",
+    "chat_aht": 1620.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1754",
+    "team_manager": "TL36",
+    "chat_aht": 683.94,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1755",
+    "team_manager": "TL36",
+    "chat_aht": 2010.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1756",
+    "team_manager": "TL36",
+    "chat_aht": 2921.68,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1757",
+    "team_manager": "TL36",
+    "chat_aht": 5023.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1764",
+    "team_manager": "TL36",
+    "chat_aht": 1348.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1765",
+    "team_manager": "TL36",
+    "chat_aht": 742.56,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1766",
+    "team_manager": "TL36",
+    "chat_aht": 628.82,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1768",
+    "team_manager": "TL36",
+    "chat_aht": 3607.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1769",
+    "team_manager": "TL36",
+    "chat_aht": 23030.52,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1770",
+    "team_manager": "TL36",
+    "chat_aht": 6755.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1771",
+    "team_manager": "TL36",
+    "chat_aht": 6164.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1778",
+    "team_manager": "TL36",
+    "chat_aht": 1603.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1780",
+    "team_manager": "TL36",
+    "chat_aht": 2495.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1782",
+    "team_manager": "TL36",
+    "chat_aht": 7126.81,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1783",
+    "team_manager": "TL36",
+    "chat_aht": 7869.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1784",
+    "team_manager": "TL36",
+    "chat_aht": 7346.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1785",
+    "team_manager": "TL36",
+    "chat_aht": 4620.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1786",
+    "team_manager": "TL36",
+    "chat_aht": 8403.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1787",
+    "team_manager": "TL36",
+    "chat_aht": 22703.28,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1788",
+    "team_manager": "TL36",
+    "chat_aht": 22102.68,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1789",
+    "team_manager": "TL36",
+    "chat_aht": 21022.26,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1790",
+    "team_manager": "TL36",
+    "chat_aht": 20557.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1791",
+    "team_manager": "TL36",
+    "chat_aht": 18912.79,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1792",
+    "team_manager": "TL36",
+    "chat_aht": 23013.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1793",
+    "team_manager": "TL36",
+    "chat_aht": 20043.51,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1794",
+    "team_manager": "TL36",
+    "chat_aht": 17291.57,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1795",
+    "team_manager": "TL36",
+    "chat_aht": 22666.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1796",
+    "team_manager": "TL36",
+    "chat_aht": 21425.06,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1797",
+    "team_manager": "TL36",
+    "chat_aht": 2017.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1798",
+    "team_manager": "TL36",
+    "chat_aht": 22811.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1799",
+    "team_manager": "TL36",
+    "chat_aht": 17302.85,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1800",
+    "team_manager": "TL36",
+    "chat_aht": 21757.36,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1801",
+    "team_manager": "TL37",
+    "chat_aht": 19714.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1802",
+    "team_manager": "TL37",
+    "chat_aht": 10558.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1803",
+    "team_manager": "TL37",
+    "chat_aht": 21803.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1804",
+    "team_manager": "TL37",
+    "chat_aht": 22741.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1805",
+    "team_manager": "TL37",
+    "chat_aht": 10187.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1806",
+    "team_manager": "TL37",
+    "chat_aht": 22739.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1807",
+    "team_manager": "TL37",
+    "chat_aht": 22488.42,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1808",
+    "team_manager": "TL37",
+    "chat_aht": 19167.84,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1809",
+    "team_manager": "TL37",
+    "chat_aht": 19816.37,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1810",
+    "team_manager": "TL37",
+    "chat_aht": 22161.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1811",
+    "team_manager": "TL37",
+    "chat_aht": 20689.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1812",
+    "team_manager": "TL37",
+    "chat_aht": 23281.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1813",
+    "team_manager": "TL37",
+    "chat_aht": 19511.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1814",
+    "team_manager": "TL37",
+    "chat_aht": 22580.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1815",
+    "team_manager": "TL37",
+    "chat_aht": 23069.63,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1816",
+    "team_manager": "TL37",
+    "chat_aht": 22090.01,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1817",
+    "team_manager": "TL37",
+    "chat_aht": 19044.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1818",
+    "team_manager": "TL37",
+    "chat_aht": 18354.85,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1819",
+    "team_manager": "TL37",
+    "chat_aht": 8414.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1820",
+    "team_manager": "TL37",
+    "chat_aht": 22905.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1821",
+    "team_manager": "TL37",
+    "chat_aht": 23421.57,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1822",
+    "team_manager": "TL37",
+    "chat_aht": 22474.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1823",
+    "team_manager": "TL37",
+    "chat_aht": 23660.45,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1824",
+    "team_manager": "TL37",
+    "chat_aht": 24079.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1825",
+    "team_manager": "TL37",
+    "chat_aht": 22776.82,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1826",
+    "team_manager": "TL37",
+    "chat_aht": 19738.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1827",
+    "team_manager": "TL37",
+    "chat_aht": 22648.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1828",
+    "team_manager": "TL37",
+    "chat_aht": 19226.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1829",
+    "team_manager": "TL37",
+    "chat_aht": 24352.56,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1830",
+    "team_manager": "TL37",
+    "chat_aht": 17988.14,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1831",
+    "team_manager": "TL37",
+    "chat_aht": 19788.15,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1852",
+    "team_manager": "TL38",
+    "chat_aht": 2649.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1865",
+    "team_manager": "TL38",
+    "chat_aht": 5698.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1867",
+    "team_manager": "TL38",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1868",
+    "team_manager": "TL38",
+    "chat_aht": 6559.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1869",
+    "team_manager": "TL38",
+    "chat_aht": 20531.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1870",
+    "team_manager": "TL38",
+    "chat_aht": 23046.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1871",
+    "team_manager": "TL38",
+    "chat_aht": 124.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1874",
+    "team_manager": "TL38",
+    "chat_aht": 967.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1876",
+    "team_manager": "TL38",
+    "chat_aht": 20499.55,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1879",
+    "team_manager": "TL38",
+    "chat_aht": 2120.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1881",
+    "team_manager": "TL38",
+    "chat_aht": 43.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1882",
+    "team_manager": "TL38",
+    "chat_aht": 21291.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1883",
+    "team_manager": "TL38",
+    "chat_aht": 243.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1885",
+    "team_manager": "TL38",
+    "chat_aht": 2406.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1889",
+    "team_manager": "TL38",
+    "chat_aht": 2204.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1890",
+    "team_manager": "TL38",
+    "chat_aht": 1286.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1891",
+    "team_manager": "TL38",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1892",
+    "team_manager": "TL38",
+    "chat_aht": 19308.6,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1894",
+    "team_manager": "TL38",
+    "chat_aht": 0.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1898",
+    "team_manager": "TL38",
+    "chat_aht": 2816.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1903",
+    "team_manager": "TL39",
+    "chat_aht": 4585.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1904",
+    "team_manager": "TL39",
+    "chat_aht": 13599.35,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1909",
+    "team_manager": "TL39",
+    "chat_aht": 6604.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1910",
+    "team_manager": "TL39",
+    "chat_aht": 6738.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1911",
+    "team_manager": "TL39",
+    "chat_aht": 6507.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1914",
+    "team_manager": "TL39",
+    "chat_aht": 2063.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1915",
+    "team_manager": "TL39",
+    "chat_aht": 6237.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1916",
+    "team_manager": "TL39",
+    "chat_aht": 12521.62,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1917",
+    "team_manager": "TL39",
+    "chat_aht": 23052.51,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1921",
+    "team_manager": "TL39",
+    "chat_aht": 5932.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1922",
+    "team_manager": "TL39",
+    "chat_aht": 7542.16,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1924",
+    "team_manager": "TL39",
+    "chat_aht": 12451.07,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1925",
+    "team_manager": "TL39",
+    "chat_aht": 21125.15,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1927",
+    "team_manager": "TL39",
+    "chat_aht": 23818.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1928",
+    "team_manager": "TL39",
+    "chat_aht": 21815.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1930",
+    "team_manager": "TL39",
+    "chat_aht": 2751.78,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1931",
+    "team_manager": "TL39",
+    "chat_aht": 8339.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1934",
+    "team_manager": "TL39",
+    "chat_aht": 8526.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1935",
+    "team_manager": "TL39",
+    "chat_aht": 19724.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1936",
+    "team_manager": "TL39",
+    "chat_aht": 18532.39,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1937",
+    "team_manager": "TL39",
+    "chat_aht": 20551.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1939",
+    "team_manager": "TL39",
+    "chat_aht": 1344.77,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1940",
+    "team_manager": "TL39",
+    "chat_aht": 21025.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1941",
+    "team_manager": "TL39",
+    "chat_aht": 7962.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1942",
+    "team_manager": "TL39",
+    "chat_aht": 17937.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1943",
+    "team_manager": "TL39",
+    "chat_aht": 20499.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1944",
+    "team_manager": "TL39",
+    "chat_aht": 18730.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1945",
+    "team_manager": "TL39",
+    "chat_aht": 22667.86,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1946",
+    "team_manager": "TL39",
+    "chat_aht": 21613.07,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1947",
+    "team_manager": "TL39",
+    "chat_aht": 20058.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1948",
+    "team_manager": "TL39",
+    "chat_aht": 20646.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1949",
+    "team_manager": "TL39",
+    "chat_aht": 3384.54,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1950",
+    "team_manager": "TL39",
+    "chat_aht": 21631.42,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1951",
+    "team_manager": "TL40",
+    "chat_aht": 22241.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1952",
+    "team_manager": "TL40",
+    "chat_aht": 21228.47,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1953",
+    "team_manager": "TL40",
+    "chat_aht": 22404.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1954",
+    "team_manager": "TL40",
+    "chat_aht": 21345.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1955",
+    "team_manager": "TL40",
+    "chat_aht": 17461.01,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1956",
+    "team_manager": "TL40",
+    "chat_aht": 20535.69,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1957",
+    "team_manager": "TL40",
+    "chat_aht": 19715.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1958",
+    "team_manager": "TL40",
+    "chat_aht": 20176.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1959",
+    "team_manager": "TL40",
+    "chat_aht": 19247.06,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1960",
+    "team_manager": "TL40",
+    "chat_aht": 21763.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1961",
+    "team_manager": "TL40",
+    "chat_aht": 23006.68,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1962",
+    "team_manager": "TL40",
+    "chat_aht": 3798.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1963",
+    "team_manager": "TL40",
+    "chat_aht": 18894.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1964",
+    "team_manager": "TL40",
+    "chat_aht": 20217.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1965",
+    "team_manager": "TL40",
+    "chat_aht": 3562.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1966",
+    "team_manager": "TL40",
+    "chat_aht": 20998.82,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1967",
+    "team_manager": "TL40",
+    "chat_aht": 3635.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1968",
+    "team_manager": "TL40",
+    "chat_aht": 19824.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1969",
+    "team_manager": "TL40",
+    "chat_aht": 2456.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1970",
+    "team_manager": "TL40",
+    "chat_aht": 20396.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1971",
+    "team_manager": "TL40",
+    "chat_aht": 21751.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1972",
+    "team_manager": "TL40",
+    "chat_aht": 20956.03,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1973",
+    "team_manager": "TL40",
+    "chat_aht": 21498.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1974",
+    "team_manager": "TL40",
+    "chat_aht": 18287.03,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1975",
+    "team_manager": "TL40",
+    "chat_aht": 20713.14,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1976",
+    "team_manager": "TL40",
+    "chat_aht": 21331.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1977",
+    "team_manager": "TL40",
+    "chat_aht": 21218.37,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1978",
+    "team_manager": "TL40",
+    "chat_aht": 17217.23,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1979",
+    "team_manager": "TL40",
+    "chat_aht": 7960.84,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1980",
+    "team_manager": "TL40",
+    "chat_aht": 3973.2,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1981",
+    "team_manager": "TL40",
+    "chat_aht": 22539.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1982",
+    "team_manager": "TL40",
+    "chat_aht": 22565.87,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1983",
+    "team_manager": "TL40",
+    "chat_aht": 21094.77,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1984",
+    "team_manager": "TL40",
+    "chat_aht": 18996.74,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1985",
+    "team_manager": "TL40",
+    "chat_aht": 6951.93,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1986",
+    "team_manager": "TL40",
+    "chat_aht": 21083.37,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1987",
+    "team_manager": "TL40",
+    "chat_aht": 2785.82,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1988",
+    "team_manager": "TL40",
+    "chat_aht": 21625.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1989",
+    "team_manager": "TL40",
+    "chat_aht": 22938.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1990",
+    "team_manager": "TL40",
+    "chat_aht": 15827.95,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1991",
+    "team_manager": "TL40",
+    "chat_aht": 20145.13,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1992",
+    "team_manager": "TL40",
+    "chat_aht": 20038.13,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1993",
+    "team_manager": "TL40",
+    "chat_aht": 21094.06,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1994",
+    "team_manager": "TL40",
+    "chat_aht": 21415.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1995",
+    "team_manager": "TL40",
+    "chat_aht": 20148.08,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1996",
+    "team_manager": "TL40",
+    "chat_aht": 7496.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1997",
+    "team_manager": "TL40",
+    "chat_aht": 4532.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1998",
+    "team_manager": "TL40",
+    "chat_aht": 1903.22,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent1999",
+    "team_manager": "TL40",
+    "chat_aht": 8813.7,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2000",
+    "team_manager": "TL40",
+    "chat_aht": 11209.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2001",
+    "team_manager": "TL41",
+    "chat_aht": 12180.81,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2002",
+    "team_manager": "TL41",
+    "chat_aht": 10829.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2003",
+    "team_manager": "TL41",
+    "chat_aht": 4111.59,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2004",
+    "team_manager": "TL41",
+    "chat_aht": 17479.31,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2005",
+    "team_manager": "TL41",
+    "chat_aht": 16656.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2006",
+    "team_manager": "TL41",
+    "chat_aht": 15466.81,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2007",
+    "team_manager": "TL41",
+    "chat_aht": 9495.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2008",
+    "team_manager": "TL41",
+    "chat_aht": 7863.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2009",
+    "team_manager": "TL41",
+    "chat_aht": 17769.74,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2010",
+    "team_manager": "TL41",
+    "chat_aht": 11609.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2011",
+    "team_manager": "TL41",
+    "chat_aht": 12259.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2012",
+    "team_manager": "TL41",
+    "chat_aht": 10317.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2013",
+    "team_manager": "TL41",
+    "chat_aht": 12438.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2014",
+    "team_manager": "TL41",
+    "chat_aht": 12588.49,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2015",
+    "team_manager": "TL41",
+    "chat_aht": 13274.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2016",
+    "team_manager": "TL41",
+    "chat_aht": 11681.42,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2017",
+    "team_manager": "TL41",
+    "chat_aht": 13386.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2018",
+    "team_manager": "TL41",
+    "chat_aht": 13833.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2022",
+    "team_manager": "TL41",
+    "chat_aht": 3003.48,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2023",
+    "team_manager": "TL41",
+    "chat_aht": 21749.66,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2024",
+    "team_manager": "TL41",
+    "chat_aht": 2941.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2028",
+    "team_manager": "TL41",
+    "chat_aht": 11806.41,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2032",
+    "team_manager": "TL41",
+    "chat_aht": 4357.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2033",
+    "team_manager": "TL41",
+    "chat_aht": 10245.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2036",
+    "team_manager": "TL41",
+    "chat_aht": 1636.61,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2037",
+    "team_manager": "TL41",
+    "chat_aht": 2379.12,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2038",
+    "team_manager": "TL41",
+    "chat_aht": 5067.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2039",
+    "team_manager": "TL41",
+    "chat_aht": 9090.99,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2040",
+    "team_manager": "TL41",
+    "chat_aht": 1708.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2041",
+    "team_manager": "TL41",
+    "chat_aht": 6532.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2042",
+    "team_manager": "TL41",
+    "chat_aht": 3140.18,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2043",
+    "team_manager": "TL41",
+    "chat_aht": 8233.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2044",
+    "team_manager": "TL41",
+    "chat_aht": 9709.33,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2045",
+    "team_manager": "TL41",
+    "chat_aht": 4790.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2046",
+    "team_manager": "TL41",
+    "chat_aht": 4318.83,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2047",
+    "team_manager": "TL41",
+    "chat_aht": 22400.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2048",
+    "team_manager": "TL41",
+    "chat_aht": 3154.05,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2049",
+    "team_manager": "TL41",
+    "chat_aht": 3497.11,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2051",
+    "team_manager": "TL42",
+    "chat_aht": 7815.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2052",
+    "team_manager": "TL42",
+    "chat_aht": 4093.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2053",
+    "team_manager": "TL42",
+    "chat_aht": 11777.26,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2054",
+    "team_manager": "TL42",
+    "chat_aht": 1497.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2055",
+    "team_manager": "TL42",
+    "chat_aht": 20361.02,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2056",
+    "team_manager": "TL42",
+    "chat_aht": 22644.25,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2057",
+    "team_manager": "TL42",
+    "chat_aht": 23114.57,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2058",
+    "team_manager": "TL42",
+    "chat_aht": 18852.53,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2059",
+    "team_manager": "TL42",
+    "chat_aht": 19241.06,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2066",
+    "team_manager": "TL42",
+    "chat_aht": 1570.98,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2068",
+    "team_manager": "TL42",
+    "chat_aht": 1919.57,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2073",
+    "team_manager": "TL42",
+    "chat_aht": 2078.5,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2076",
+    "team_manager": "TL42",
+    "chat_aht": 14002.21,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2077",
+    "team_manager": "TL42",
+    "chat_aht": 7598.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2078",
+    "team_manager": "TL42",
+    "chat_aht": 748.67,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2082",
+    "team_manager": "TL42",
+    "chat_aht": 1136.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2084",
+    "team_manager": "TL42",
+    "chat_aht": 5617.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2085",
+    "team_manager": "TL42",
+    "chat_aht": 17988.84,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2087",
+    "team_manager": "TL42",
+    "chat_aht": 708.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2089",
+    "team_manager": "TL42",
+    "chat_aht": 14150.88,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2091",
+    "team_manager": "TL42",
+    "chat_aht": 1185.22,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2092",
+    "team_manager": "TL42",
+    "chat_aht": 799.58,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2093",
+    "team_manager": "TL42",
+    "chat_aht": 2940.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2094",
+    "team_manager": "TL42",
+    "chat_aht": 1840.64,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2095",
+    "team_manager": "TL42",
+    "chat_aht": 16018.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2096",
+    "team_manager": "TL42",
+    "chat_aht": 16156.1,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2097",
+    "team_manager": "TL42",
+    "chat_aht": 8353.45,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2098",
+    "team_manager": "TL42",
+    "chat_aht": 2623.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2100",
+    "team_manager": "TL42",
+    "chat_aht": 898.71,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2103",
+    "team_manager": "TL43",
+    "chat_aht": 1429.91,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2104",
+    "team_manager": "TL43",
+    "chat_aht": 1633.46,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2105",
+    "team_manager": "TL43",
+    "chat_aht": 1534.81,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2108",
+    "team_manager": "TL43",
+    "chat_aht": 1888.14,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2109",
+    "team_manager": "TL43",
+    "chat_aht": 1879.77,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2110",
+    "team_manager": "TL43",
+    "chat_aht": 6148.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2111",
+    "team_manager": "TL43",
+    "chat_aht": 7731.19,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2112",
+    "team_manager": "TL43",
+    "chat_aht": 1400.96,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2113",
+    "team_manager": "TL43",
+    "chat_aht": 2022.06,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2115",
+    "team_manager": "TL43",
+    "chat_aht": 21380.72,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2116",
+    "team_manager": "TL43",
+    "chat_aht": 10870.04,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2117",
+    "team_manager": "TL43",
+    "chat_aht": 1053.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2118",
+    "team_manager": "TL43",
+    "chat_aht": 9728.24,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2127",
+    "team_manager": "TL43",
+    "chat_aht": 21187.97,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2147",
+    "team_manager": "TL43",
+    "chat_aht": 24018.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2148",
+    "team_manager": "TL43",
+    "chat_aht": 218.8,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2154",
+    "team_manager": "TL44",
+    "chat_aht": 19469.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2184",
+    "team_manager": "TL44",
+    "chat_aht": 7713.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2212",
+    "team_manager": "TL45",
+    "chat_aht": 6782.09,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2229",
+    "team_manager": "TL45",
+    "chat_aht": 7541.43,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2233",
+    "team_manager": "TL45",
+    "chat_aht": 2639.38,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2234",
+    "team_manager": "TL45",
+    "chat_aht": 18868.77,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2293",
+    "team_manager": "TL46",
+    "chat_aht": 6997.03,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2325",
+    "team_manager": "TL47",
+    "chat_aht": 523.17,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2335",
+    "team_manager": "TL47",
+    "chat_aht": 6671.07,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2344",
+    "team_manager": "TL47",
+    "chat_aht": 21114.3,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2349",
+    "team_manager": "TL47",
+    "chat_aht": 7426.29,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2355",
+    "team_manager": "TL48",
+    "chat_aht": 10592.22,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2357",
+    "team_manager": "TL48",
+    "chat_aht": 7352.34,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2368",
+    "team_manager": "TL48",
+    "chat_aht": 194.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2377",
+    "team_manager": "TL48",
+    "chat_aht": 968.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2407",
+    "team_manager": "TL49",
+    "chat_aht": 2153.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2476",
+    "team_manager": "TL50",
+    "chat_aht": 257.0,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2510",
+    "team_manager": "TL51",
+    "chat_aht": 2414.32,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2542",
+    "team_manager": "TL51",
+    "chat_aht": 15153.44,
+    "concurrent_chats": 1
+  },
+  {
+    "agent_id": "Agent2543",
+    "team_manager": "TL51",
+    "chat_aht": 20393.8,
+    "concurrent_chats": 1
+  }
+]

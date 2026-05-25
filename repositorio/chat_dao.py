@@ -1,83 +1,69 @@
 import json
 import os
 
+from modelo.agente_chat import AgenteChat
+
+_BASE = os.path.dirname(os.path.abspath(__file__))
+
 
 class ChatDAO:
+    """DAO canal Chat. CRUD sobre chat_data.json."""
 
-    FILE = "data/chat_data.json"
+    FILE = os.path.join(_BASE, "..", "data", "chat_data.json")
 
+    def __init__(self, archivo=None):
+        self.archivo = archivo if archivo else self.FILE
+
+    # --- Acceso a datos (lo unico que cambiaria al migrar a SQLite) ---
     def _cargar(self):
+        # Archivo inexistente o vacio -> lista vacia (evita JSONDecodeError)
+        if not os.path.exists(self.archivo) or os.path.getsize(self.archivo) == 0:
+            return []
+        with open(self.archivo, encoding="utf-8") as f:
+            try:
+                return json.load(f)
+            except json.JSONDecodeError:
+                # JSON corrupto: no tumbamos el programa, arrancamos vacio
+                return []
 
-        if not os.path.exists(self.FILE):
-            return {}
+    def _guardar(self, registros):
+        carpeta = os.path.dirname(self.archivo)
+        if carpeta:
+            os.makedirs(carpeta, exist_ok=True)
+        with open(self.archivo, "w", encoding="utf-8") as f:
+            json.dump(registros, f, ensure_ascii=False, indent=2)
 
-        with open(self.FILE, "r", encoding="utf-8") as file:
-            return json.load(file)
-
-    def _guardar(self, data):
-
-        os.makedirs("data", exist_ok=True)
-
-        with open(self.FILE, "w", encoding="utf-8") as file:
-            json.dump(data, file, indent=4, ensure_ascii=False)
-
+    # --- CRUD ---
     def crear(self, agente):
-
-        data = self._cargar()
-
-        if agente.get_agent_id() in data:
+        registros = self._cargar()
+        if any(r["agent_id"] == agente.get_agent_id() for r in registros):
             return False
-
-        data[agente.get_agent_id()] = agente.to_dict()
-
-        self._guardar(data)
-
+        registros.append(agente.to_dict())
+        self._guardar(registros)
         return True
 
     def obtener(self, agent_id):
-
-        from modelo.agente_chat import AgenteChat
-
-        data = self._cargar()
-
-        if agent_id in data:
-            return AgenteChat.from_dict(data[agent_id])
-
+        for r in self._cargar():
+            if r["agent_id"] == agent_id:
+                return AgenteChat.from_dict(r)
         return None
 
     def obtener_todos(self):
-
-        from modelo.agente_chat import AgenteChat
-
-        data = self._cargar()
-
-        return [
-            AgenteChat.from_dict(value)
-            for value in data.values()
-        ]
+        return [AgenteChat.from_dict(r) for r in self._cargar()]
 
     def actualizar(self, agente):
-
-        data = self._cargar()
-
-        if agente.get_agent_id() not in data:
-            return False
-
-        data[agente.get_agent_id()] = agente.to_dict()
-
-        self._guardar(data)
-
-        return True
+        registros = self._cargar()
+        for i, r in enumerate(registros):
+            if r["agent_id"] == agente.get_agent_id():
+                registros[i] = agente.to_dict()
+                self._guardar(registros)
+                return True
+        return False
 
     def eliminar(self, agent_id):
-
-        data = self._cargar()
-
-        if agent_id not in data:
+        registros = self._cargar()
+        nuevos = [r for r in registros if r["agent_id"] != agent_id]
+        if len(nuevos) == len(registros):
             return False
-
-        del data[agent_id]
-
-        self._guardar(data)
-
+        self._guardar(nuevos)
         return True
