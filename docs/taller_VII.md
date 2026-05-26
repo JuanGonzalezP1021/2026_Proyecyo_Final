@@ -9,8 +9,8 @@
 | Integrante | Rama Git | Entidad | Archivo DAO |
 |---|---|---|---|
 | Juan David González Puentes | `dev_jugonzalez47` | `AgentePhone` | `phone_dao.py` |
-| Luna Sahay Guerrero Tarrazona | `dev_lguerrero07` | `AgenteChat` | `chat_dao.py` |
-| Lorena Sofia Saavedra Orjueja | `dev_lsaavedra18` | `AgenteEmail` | `email_dao.py` |
+| Luna Sahay Guerrero Tarrazona | `dev_lguerrero07` | `AgenteEmail` | `email_dao.py` |
+| Lorena Sofia Saavedra Orjueja | `dev_lsaavedra18` | `AgenteChat` | `chat_dao.py` |
 
 ---
 
