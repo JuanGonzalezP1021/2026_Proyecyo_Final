@@ -215,7 +215,15 @@ Edge case: si `inbound_tx == 0` retorna `0.0` en ambas métricas.
 
 ### Resultado de pruebas — Dev 3: Email (L. Saavedra)
 
-> _(Pendiente: insertar capturas de pruebas Email)_
+![Pruebas Phone 1](PruebasUnitarias_Email/Pruebas_1.png)
+
+![Pruebas Phone 2](PruebasUnitarias_Email/Pruebas_2.png)
+
+![Pruebas Phone 3](PruebasUnitarias_Email/Pruebas_3.png)
+
+![Pruebas Phone 4](PruebasUnitarias_Email/Pruebas_4.png)
+
+![Pruebas Phone 5](PruebasUnitarias_Email/Pruebas_5.png)
 
 ---
 
