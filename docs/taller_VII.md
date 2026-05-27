@@ -217,6 +217,7 @@ Edge case: si `inbound_tx == 0` retorna `0.0` en ambas métricas.
 
 ![Pruebas Phone 3](PruebasUnitarias_Chat/imagen_3.png)
 
+
 ### Resultado de pruebas — Dev 3: Email (L. Guerrero)
 
 ![Pruebas Phone 1](PruebasUnitarias_Email/Pruebas_1.png)
