@@ -211,11 +211,11 @@ Edge case: si `inbound_tx == 0` retorna `0.0` en ambas métricas.
 
 ### Resultado de pruebas — Dev 2: Chat (L. Saavedra)
 
-![Pruebas Phone 1](PruebasUnitarias_Chat/imagen_1.png)
+![Pruebas Phone 1](PruebasUnitarias_Chat/imagen%201.png)
 
-![Pruebas Phone 2](PruebasUnitarias_Chat/imagen_2.png)
+![Pruebas Phone 2](PruebasUnitarias_Chat/imagen%202.png)
 
-![Pruebas Phone 3](PruebasUnitarias_Chat/imagen_3.png)
+![Pruebas Phone 3](PruebasUnitarias_Chat/imagen%203.png)
 
 ### Resultado de pruebas — Dev 3: Email (L. Guerrero)
 
